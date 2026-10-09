@@ -1,0 +1,38 @@
+{
+  "depth_mm": {
+    "Description": "Depth relative to the reference target from the file name (0 = target, negative = above, positive = beyond)",
+    "Units": "mm"
+  },
+  "electrode_label": {
+    "Description": "Microelectrode label from the file name ('kanal<label>')"
+  },
+  "trajectory": {
+    "Description": "Ben-gun position (label without the amplifier channel digit); central_or_lateral for the ambiguous 'Central3Lateral' label"
+  },
+  "protocol_site_no": {
+    "Description": "'New site no' of the first protocol entry with this depth (protokoll.txt); n/a if none"
+  },
+  "protocol_sites_at_depth": {
+    "Description": "Number of protocol site entries with this depth (more than 1 when the protocol holds several sessions)"
+  },
+  "source_file": {
+    "Description": "CSV in the MOST Wiedzy dataset.zip (path below 'dataset/')"
+  },
+  "source_time_start_s": {
+    "Description": "First CSV 'Time' value: offset of the kept segment within the original site recording",
+    "Units": "s"
+  },
+  "source_time_end_s": {
+    "Description": "Last CSV 'Time' value",
+    "Units": "s"
+  },
+  "n_samples": {
+    "Description": "Samples in the run (20 kHz)"
+  },
+  "has_raw_channel": {
+    "Description": "yes if the CSV has the '1: raw' column (stored as channel <label>_raw)"
+  },
+  "annotated_structure": {
+    "Description": "task-merannot runs: structure folder of brain_layer_annotations (GPi, GPe, STR_or_putamen)"
+  }
+}

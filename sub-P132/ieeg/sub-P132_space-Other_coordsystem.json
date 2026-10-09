@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "No electrode coordinates were released. Each microelectrode position is only known as its Ben-gun position (central/anterior/posterior/medial/lateral, 2 mm spacing in a standard Ben-gun) and the recording depth in mm relative to the MRI-planned target along the trajectory (0 = target, negative = above). Coordinates are n/a."
+}

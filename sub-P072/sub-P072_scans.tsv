@@ -1,0 +1,4 @@
+filename	depth_mm	electrode_label	trajectory	protocol_site_no	protocol_sites_at_depth	source_file	source_time_start_s	source_time_end_s	n_samples	has_raw_channel	annotated_structure
+ieeg/sub-P072_task-mer_acq-3posterior_run-001_ieeg.vhdr	-10.0	3Posterior	posterior	1	1	dataset/MER/P072/depth-10,0_kanal3Posterior.csv	668.0	716.99995	980000	no	n/a
+ieeg/sub-P072_task-mer_acq-central_run-001_ieeg.vhdr	-10.0	Central	central	1	1	dataset/MER/P072/depth-10,0_kanalCentral.csv	1220.0	1244.49995	490000	no	n/a
+ieeg/sub-P072_task-mer_acq-medial_run-001_ieeg.vhdr	-10.0	Medial	medial	1	1	dataset/MER/P072/depth-10,0_kanalMedial.csv	379.5	404.49995	500000	no	n/a

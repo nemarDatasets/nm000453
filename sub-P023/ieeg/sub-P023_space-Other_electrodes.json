@@ -1,0 +1,32 @@
+{
+  "name": {
+    "Description": "Microelectrode label as in the released file names (channel name of the runs; '<label>_raw' channels come from the same electrode)"
+  },
+  "x": {
+    "Description": "Not released (n/a)",
+    "Units": "mm"
+  },
+  "y": {
+    "Description": "Not released (n/a)",
+    "Units": "mm"
+  },
+  "z": {
+    "Description": "Not released (n/a)",
+    "Units": "mm"
+  },
+  "type": {
+    "Description": "microelectrode (inomed MicroMacro, Ben-gun array)"
+  },
+  "trajectory": {
+    "Description": "Ben-gun position: central, anterior, posterior, medial or lateral"
+  },
+  "min_depth_mm": {
+    "Description": "Shallowest released recording depth relative to the reference target",
+    "Units": "mm"
+  },
+  "max_depth_mm": {
+    "Description": "Deepest released recording depth relative to the reference target",
+    "Units": "mm"
+  },
+  "SpatialReference": "none: no coordinates were released; position is given only as depth relative to the planned target along each Ben-gun trajectory (scans.tsv depth_mm)"
+}

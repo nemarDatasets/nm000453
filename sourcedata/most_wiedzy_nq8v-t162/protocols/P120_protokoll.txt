@@ -1,0 +1,686 @@
+Report file opened for P120 (P120), 2019-03-01 Version 3.2.1.0
+09:11:43 -- New OP defined
+10:06:02 -- User tries to create connection
+10:06:02 -- Connecting to ISIS Headbox...
+10:06:04 -- HeadBox Software :ISIS Headbox SW Version : ISIS Headbox Version DSP - Prog: 16x20
+10:06:04 -- HeadBox IP: USB-Device-Nr: 0
+10:06:04 -- C ISIS Headbox-1227062 e
+10:06:05 -- Connection to OSIRIS established! Software: 1.15 BIOS:  Version:MER
+10:06:14 -- ChannelEnabled[0] = 1
+10:06:14 -- 1: Anterior:  1,5 MOhm
+10:06:14 -- ChannelEnabled[1] = 2
+10:06:14 -- 2: Central:  1,4 MOhm
+10:06:14 -- ChannelEnabled[2] = 3
+10:06:14 -- 3: Posterior:  1,6 MOhm
+10:06:14 -- 
+10:06:19 -- 
+10:06:19 -- ------------------------------------------ 
+10:06:19 -- New site no 1 created( Depth: -10.0 mm )
+10:06:19 -- 
+10:06:19 -- Quantisation: 16 Bit
+10:06:19 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:06:19 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:06:19 -- Datafile opened: patienten\P120\<id>\01_MER_CH1_<id>.dat
+10:06:19 -- Start recording in file patienten\P120\<id>\01_MER_CH1_<id>.dat
+10:06:19 -- Datafile opened: patienten\P120\<id>\01_MER_CH2_<id>.dat
+10:06:19 -- Start recording in file patienten\P120\<id>\01_MER_CH2_<id>.dat
+10:06:19 -- Datafile opened: patienten\P120\<id>\01_MER_CH3_<id>.dat
+10:06:19 -- Start recording in file patienten\P120\<id>\01_MER_CH3_<id>.dat
+10:06:19 -- EMG-Datafile opened: patienten\P120\<id>\01_TRG_<id>.dat
+10:06:19 -- EMG-Datafile opened: patienten\P120\<id>\01_STIM_<id>.dat
+10:06:19 -- Start recording in file patienten\P120\<id>\01_TRG_<id>.dat
+10:06:19 -- Start recording in file patienten\P120\<id>\01_STIM_<id>.dat
+10:06:55 -- 
+10:06:55 -- ------------------------------------------ 
+10:06:55 -- New site no 2 created( Depth: -9,5 mm )
+10:06:55 -- 
+10:06:55 -- Quantisation: 16 Bit
+10:06:55 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:06:55 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:06:55 -- Datafile opened: patienten\P120\<id>\02_MER_CH1_<id>.dat
+10:06:55 -- Start recording in file patienten\P120\<id>\02_MER_CH1_<id>.dat
+10:06:55 -- Datafile opened: patienten\P120\<id>\02_MER_CH2_<id>.dat
+10:06:55 -- Start recording in file patienten\P120\<id>\02_MER_CH2_<id>.dat
+10:06:55 -- Datafile opened: patienten\P120\<id>\02_MER_CH3_<id>.dat
+10:06:55 -- Start recording in file patienten\P120\<id>\02_MER_CH3_<id>.dat
+10:06:55 -- EMG-Datafile opened: patienten\P120\<id>\02_TRG_<id>.dat
+10:06:55 -- EMG-Datafile opened: patienten\P120\<id>\02_STIM_<id>.dat
+10:06:55 -- Start recording in file patienten\P120\<id>\02_TRG_<id>.dat
+10:06:55 -- Start recording in file patienten\P120\<id>\02_STIM_<id>.dat
+10:06:56 -- 
+10:06:56 -- ------------------------------------------ 
+10:06:56 -- New site no 3 created( Depth: -9,0 mm )
+10:06:56 -- 
+10:06:56 -- Quantisation: 16 Bit
+10:06:56 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:06:56 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:06:56 -- Datafile opened: patienten\P120\<id>\03_MER_CH1_<id>.dat
+10:06:56 -- Start recording in file patienten\P120\<id>\03_MER_CH1_<id>.dat
+10:06:56 -- Datafile opened: patienten\P120\<id>\03_MER_CH2_<id>.dat
+10:06:56 -- Start recording in file patienten\P120\<id>\03_MER_CH2_<id>.dat
+10:06:56 -- Datafile opened: patienten\P120\<id>\03_MER_CH3_<id>.dat
+10:06:56 -- Start recording in file patienten\P120\<id>\03_MER_CH3_<id>.dat
+10:06:56 -- EMG-Datafile opened: patienten\P120\<id>\03_TRG_<id>.dat
+10:06:56 -- EMG-Datafile opened: patienten\P120\<id>\03_STIM_<id>.dat
+10:06:56 -- Start recording in file patienten\P120\<id>\03_TRG_<id>.dat
+10:06:56 -- Start recording in file patienten\P120\<id>\03_STIM_<id>.dat
+10:07:33 -- 
+10:07:33 -- ------------------------------------------ 
+10:07:33 -- New site no 4 created( Depth: -8,5 mm )
+10:07:33 -- 
+10:07:33 -- Quantisation: 16 Bit
+10:07:33 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:07:33 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:07:33 -- Datafile opened: patienten\P120\<id>\04_MER_CH1_<id>.dat
+10:07:33 -- Start recording in file patienten\P120\<id>\04_MER_CH1_<id>.dat
+10:07:33 -- Datafile opened: patienten\P120\<id>\04_MER_CH2_<id>.dat
+10:07:33 -- Start recording in file patienten\P120\<id>\04_MER_CH2_<id>.dat
+10:07:33 -- Datafile opened: patienten\P120\<id>\04_MER_CH3_<id>.dat
+10:07:33 -- Start recording in file patienten\P120\<id>\04_MER_CH3_<id>.dat
+10:07:33 -- EMG-Datafile opened: patienten\P120\<id>\04_TRG_<id>.dat
+10:07:33 -- EMG-Datafile opened: patienten\P120\<id>\04_STIM_<id>.dat
+10:07:33 -- Start recording in file patienten\P120\<id>\04_TRG_<id>.dat
+10:07:33 -- Start recording in file patienten\P120\<id>\04_STIM_<id>.dat
+10:07:34 -- 
+10:07:34 -- ------------------------------------------ 
+10:07:34 -- New site no 5 created( Depth: -8,0 mm )
+10:07:34 -- 
+10:07:34 -- Quantisation: 16 Bit
+10:07:34 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:07:34 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:07:34 -- Datafile opened: patienten\P120\<id>\05_MER_CH1_<id>.dat
+10:07:34 -- Start recording in file patienten\P120\<id>\05_MER_CH1_<id>.dat
+10:07:34 -- Datafile opened: patienten\P120\<id>\05_MER_CH2_<id>.dat
+10:07:34 -- Start recording in file patienten\P120\<id>\05_MER_CH2_<id>.dat
+10:07:34 -- Datafile opened: patienten\P120\<id>\05_MER_CH3_<id>.dat
+10:07:34 -- Start recording in file patienten\P120\<id>\05_MER_CH3_<id>.dat
+10:07:34 -- EMG-Datafile opened: patienten\P120\<id>\05_TRG_<id>.dat
+10:07:34 -- EMG-Datafile opened: patienten\P120\<id>\05_STIM_<id>.dat
+10:07:34 -- Start recording in file patienten\P120\<id>\05_TRG_<id>.dat
+10:07:34 -- Start recording in file patienten\P120\<id>\05_STIM_<id>.dat
+10:08:02 -- 
+10:08:02 -- ------------------------------------------ 
+10:08:02 -- New site no 6 created( Depth: -7,5 mm )
+10:08:02 -- 
+10:08:02 -- Quantisation: 16 Bit
+10:08:02 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:08:02 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:08:03 -- Datafile opened: patienten\P120\<id>\06_MER_CH1_<id>.dat
+10:08:03 -- Start recording in file patienten\P120\<id>\06_MER_CH1_<id>.dat
+10:08:03 -- Datafile opened: patienten\P120\<id>\06_MER_CH2_<id>.dat
+10:08:03 -- Start recording in file patienten\P120\<id>\06_MER_CH2_<id>.dat
+10:08:03 -- Datafile opened: patienten\P120\<id>\06_MER_CH3_<id>.dat
+10:08:03 -- Start recording in file patienten\P120\<id>\06_MER_CH3_<id>.dat
+10:08:03 -- EMG-Datafile opened: patienten\P120\<id>\06_TRG_<id>.dat
+10:08:03 -- EMG-Datafile opened: patienten\P120\<id>\06_STIM_<id>.dat
+10:08:03 -- Start recording in file patienten\P120\<id>\06_TRG_<id>.dat
+10:08:03 -- Start recording in file patienten\P120\<id>\06_STIM_<id>.dat
+10:08:04 -- 
+10:08:04 -- ------------------------------------------ 
+10:08:04 -- New site no 7 created( Depth: -7,0 mm )
+10:08:04 -- 
+10:08:04 -- Quantisation: 16 Bit
+10:08:04 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:08:04 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:08:04 -- Datafile opened: patienten\P120\<id>\07_MER_CH1_<id>.dat
+10:08:04 -- Start recording in file patienten\P120\<id>\07_MER_CH1_<id>.dat
+10:08:04 -- Datafile opened: patienten\P120\<id>\07_MER_CH2_<id>.dat
+10:08:04 -- Start recording in file patienten\P120\<id>\07_MER_CH2_<id>.dat
+10:08:04 -- Datafile opened: patienten\P120\<id>\07_MER_CH3_<id>.dat
+10:08:04 -- Start recording in file patienten\P120\<id>\07_MER_CH3_<id>.dat
+10:08:04 -- EMG-Datafile opened: patienten\P120\<id>\07_TRG_<id>.dat
+10:08:04 -- EMG-Datafile opened: patienten\P120\<id>\07_STIM_<id>.dat
+10:08:04 -- Start recording in file patienten\P120\<id>\07_TRG_<id>.dat
+10:08:04 -- Start recording in file patienten\P120\<id>\07_STIM_<id>.dat
+10:08:25 -- 
+10:08:25 -- ------------------------------------------ 
+10:08:25 -- New site no 8 created( Depth: -6,5 mm )
+10:08:25 -- 
+10:08:25 -- Quantisation: 16 Bit
+10:08:25 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:08:25 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:08:25 -- Datafile opened: patienten\P120\<id>\08_MER_CH1_<id>.dat
+10:08:25 -- Start recording in file patienten\P120\<id>\08_MER_CH1_<id>.dat
+10:08:25 -- Datafile opened: patienten\P120\<id>\08_MER_CH2_<id>.dat
+10:08:25 -- Start recording in file patienten\P120\<id>\08_MER_CH2_<id>.dat
+10:08:25 -- Datafile opened: patienten\P120\<id>\08_MER_CH3_<id>.dat
+10:08:25 -- Start recording in file patienten\P120\<id>\08_MER_CH3_<id>.dat
+10:08:25 -- EMG-Datafile opened: patienten\P120\<id>\08_TRG_<id>.dat
+10:08:25 -- EMG-Datafile opened: patienten\P120\<id>\08_STIM_<id>.dat
+10:08:25 -- Start recording in file patienten\P120\<id>\08_TRG_<id>.dat
+10:08:25 -- Start recording in file patienten\P120\<id>\08_STIM_<id>.dat
+10:09:02 -- 
+10:09:02 -- ------------------------------------------ 
+10:09:02 -- New site no 9 created( Depth: -6,0 mm )
+10:09:02 -- 
+10:09:02 -- Quantisation: 16 Bit
+10:09:02 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:09:02 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:09:03 -- Datafile opened: patienten\P120\<id>\09_MER_CH1_<id>.dat
+10:09:03 -- Start recording in file patienten\P120\<id>\09_MER_CH1_<id>.dat
+10:09:03 -- Datafile opened: patienten\P120\<id>\09_MER_CH2_<id>.dat
+10:09:03 -- Start recording in file patienten\P120\<id>\09_MER_CH2_<id>.dat
+10:09:03 -- Datafile opened: patienten\P120\<id>\09_MER_CH3_<id>.dat
+10:09:03 -- Start recording in file patienten\P120\<id>\09_MER_CH3_<id>.dat
+10:09:03 -- EMG-Datafile opened: patienten\P120\<id>\09_TRG_<id>.dat
+10:09:03 -- EMG-Datafile opened: patienten\P120\<id>\09_STIM_<id>.dat
+10:09:03 -- Start recording in file patienten\P120\<id>\09_TRG_<id>.dat
+10:09:03 -- Start recording in file patienten\P120\<id>\09_STIM_<id>.dat
+10:09:25 -- 
+10:09:25 -- ------------------------------------------ 
+10:09:25 -- New site no 10 created( Depth: -5,5 mm )
+10:09:25 -- 
+10:09:25 -- Quantisation: 16 Bit
+10:09:25 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:09:25 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:09:25 -- Datafile opened: patienten\P120\<id>\10_MER_CH1_<id>.dat
+10:09:25 -- Start recording in file patienten\P120\<id>\10_MER_CH1_<id>.dat
+10:09:25 -- Datafile opened: patienten\P120\<id>\10_MER_CH2_<id>.dat
+10:09:25 -- Start recording in file patienten\P120\<id>\10_MER_CH2_<id>.dat
+10:09:25 -- Datafile opened: patienten\P120\<id>\10_MER_CH3_<id>.dat
+10:09:25 -- Start recording in file patienten\P120\<id>\10_MER_CH3_<id>.dat
+10:09:25 -- EMG-Datafile opened: patienten\P120\<id>\10_TRG_<id>.dat
+10:09:25 -- EMG-Datafile opened: patienten\P120\<id>\10_STIM_<id>.dat
+10:09:25 -- Start recording in file patienten\P120\<id>\10_TRG_<id>.dat
+10:09:25 -- Start recording in file patienten\P120\<id>\10_STIM_<id>.dat
+10:09:58 -- 
+10:09:58 -- ------------------------------------------ 
+10:09:58 -- New site no 11 created( Depth: -5,0 mm )
+10:09:58 -- 
+10:09:58 -- Quantisation: 16 Bit
+10:09:58 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:09:58 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:09:58 -- Datafile opened: patienten\P120\<id>\11_MER_CH1_<id>.dat
+10:09:58 -- Start recording in file patienten\P120\<id>\11_MER_CH1_<id>.dat
+10:09:58 -- Datafile opened: patienten\P120\<id>\11_MER_CH2_<id>.dat
+10:09:58 -- Start recording in file patienten\P120\<id>\11_MER_CH2_<id>.dat
+10:09:58 -- Datafile opened: patienten\P120\<id>\11_MER_CH3_<id>.dat
+10:09:58 -- Start recording in file patienten\P120\<id>\11_MER_CH3_<id>.dat
+10:09:58 -- EMG-Datafile opened: patienten\P120\<id>\11_TRG_<id>.dat
+10:09:58 -- EMG-Datafile opened: patienten\P120\<id>\11_STIM_<id>.dat
+10:09:58 -- Start recording in file patienten\P120\<id>\11_TRG_<id>.dat
+10:09:58 -- Start recording in file patienten\P120\<id>\11_STIM_<id>.dat
+10:10:06 -- 
+10:10:06 -- ------------------------------------------ 
+10:10:06 -- New site no 12 created( Depth: -4,5 mm )
+10:10:06 -- 
+10:10:06 -- Quantisation: 16 Bit
+10:10:06 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:10:06 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:10:06 -- Datafile opened: patienten\P120\<id>\12_MER_CH1_<id>.dat
+10:10:06 -- Start recording in file patienten\P120\<id>\12_MER_CH1_<id>.dat
+10:10:06 -- Datafile opened: patienten\P120\<id>\12_MER_CH2_<id>.dat
+10:10:06 -- Start recording in file patienten\P120\<id>\12_MER_CH2_<id>.dat
+10:10:06 -- Datafile opened: patienten\P120\<id>\12_MER_CH3_<id>.dat
+10:10:06 -- Start recording in file patienten\P120\<id>\12_MER_CH3_<id>.dat
+10:10:06 -- EMG-Datafile opened: patienten\P120\<id>\12_TRG_<id>.dat
+10:10:06 -- EMG-Datafile opened: patienten\P120\<id>\12_STIM_<id>.dat
+10:10:06 -- Start recording in file patienten\P120\<id>\12_TRG_<id>.dat
+10:10:06 -- Start recording in file patienten\P120\<id>\12_STIM_<id>.dat
+10:10:34 -- 
+10:10:34 -- ------------------------------------------ 
+10:10:34 -- New site no 13 created( Depth: -4,0 mm )
+10:10:34 -- 
+10:10:34 -- Quantisation: 16 Bit
+10:10:34 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:10:34 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:10:34 -- Datafile opened: patienten\P120\<id>\13_MER_CH1_<id>.dat
+10:10:34 -- Start recording in file patienten\P120\<id>\13_MER_CH1_<id>.dat
+10:10:34 -- Datafile opened: patienten\P120\<id>\13_MER_CH2_<id>.dat
+10:10:34 -- Start recording in file patienten\P120\<id>\13_MER_CH2_<id>.dat
+10:10:34 -- Datafile opened: patienten\P120\<id>\13_MER_CH3_<id>.dat
+10:10:34 -- Start recording in file patienten\P120\<id>\13_MER_CH3_<id>.dat
+10:10:34 -- EMG-Datafile opened: patienten\P120\<id>\13_TRG_<id>.dat
+10:10:34 -- EMG-Datafile opened: patienten\P120\<id>\13_STIM_<id>.dat
+10:10:34 -- Start recording in file patienten\P120\<id>\13_TRG_<id>.dat
+10:10:34 -- Start recording in file patienten\P120\<id>\13_STIM_<id>.dat
+10:11:01 -- 
+10:11:01 -- ------------------------------------------ 
+10:11:01 -- New site no 14 created( Depth: -3,5 mm )
+10:11:01 -- 
+10:11:01 -- Quantisation: 16 Bit
+10:11:01 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:11:01 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:11:01 -- Datafile opened: patienten\P120\<id>\14_MER_CH1_<id>.dat
+10:11:01 -- Start recording in file patienten\P120\<id>\14_MER_CH1_<id>.dat
+10:11:01 -- Datafile opened: patienten\P120\<id>\14_MER_CH2_<id>.dat
+10:11:01 -- Start recording in file patienten\P120\<id>\14_MER_CH2_<id>.dat
+10:11:01 -- Datafile opened: patienten\P120\<id>\14_MER_CH3_<id>.dat
+10:11:01 -- Start recording in file patienten\P120\<id>\14_MER_CH3_<id>.dat
+10:11:01 -- EMG-Datafile opened: patienten\P120\<id>\14_TRG_<id>.dat
+10:11:01 -- EMG-Datafile opened: patienten\P120\<id>\14_STIM_<id>.dat
+10:11:01 -- Start recording in file patienten\P120\<id>\14_TRG_<id>.dat
+10:11:01 -- Start recording in file patienten\P120\<id>\14_STIM_<id>.dat
+10:11:32 -- 
+10:11:32 -- ------------------------------------------ 
+10:11:32 -- New site no 15 created( Depth: -3,0 mm )
+10:11:32 -- 
+10:11:32 -- Quantisation: 16 Bit
+10:11:32 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:11:32 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:11:32 -- Datafile opened: patienten\P120\<id>\15_MER_CH1_<id>.dat
+10:11:32 -- Start recording in file patienten\P120\<id>\15_MER_CH1_<id>.dat
+10:11:32 -- Datafile opened: patienten\P120\<id>\15_MER_CH2_<id>.dat
+10:11:32 -- Start recording in file patienten\P120\<id>\15_MER_CH2_<id>.dat
+10:11:32 -- Datafile opened: patienten\P120\<id>\15_MER_CH3_<id>.dat
+10:11:32 -- Start recording in file patienten\P120\<id>\15_MER_CH3_<id>.dat
+10:11:32 -- EMG-Datafile opened: patienten\P120\<id>\15_TRG_<id>.dat
+10:11:32 -- EMG-Datafile opened: patienten\P120\<id>\15_STIM_<id>.dat
+10:11:32 -- Start recording in file patienten\P120\<id>\15_TRG_<id>.dat
+10:11:32 -- Start recording in file patienten\P120\<id>\15_STIM_<id>.dat
+10:12:01 -- 
+10:12:01 -- ------------------------------------------ 
+10:12:01 -- New site no 16 created( Depth: -2,5 mm )
+10:12:01 -- 
+10:12:01 -- Quantisation: 16 Bit
+10:12:01 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:12:01 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:12:01 -- Datafile opened: patienten\P120\<id>\16_MER_CH1_<id>.dat
+10:12:01 -- Start recording in file patienten\P120\<id>\16_MER_CH1_<id>.dat
+10:12:01 -- Datafile opened: patienten\P120\<id>\16_MER_CH2_<id>.dat
+10:12:01 -- Start recording in file patienten\P120\<id>\16_MER_CH2_<id>.dat
+10:12:01 -- Datafile opened: patienten\P120\<id>\16_MER_CH3_<id>.dat
+10:12:01 -- Start recording in file patienten\P120\<id>\16_MER_CH3_<id>.dat
+10:12:01 -- EMG-Datafile opened: patienten\P120\<id>\16_TRG_<id>.dat
+10:12:01 -- EMG-Datafile opened: patienten\P120\<id>\16_STIM_<id>.dat
+10:12:01 -- Start recording in file patienten\P120\<id>\16_TRG_<id>.dat
+10:12:01 -- Start recording in file patienten\P120\<id>\16_STIM_<id>.dat
+10:13:00 -- 
+10:13:00 -- ------------------------------------------ 
+10:13:00 -- New site no 17 created( Depth: -2,0 mm )
+10:13:00 -- 
+10:13:00 -- Quantisation: 16 Bit
+10:13:00 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:13:00 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:13:00 -- Datafile opened: patienten\P120\<id>\17_MER_CH1_<id>.dat
+10:13:00 -- Start recording in file patienten\P120\<id>\17_MER_CH1_<id>.dat
+10:13:00 -- Datafile opened: patienten\P120\<id>\17_MER_CH2_<id>.dat
+10:13:00 -- Start recording in file patienten\P120\<id>\17_MER_CH2_<id>.dat
+10:13:00 -- Datafile opened: patienten\P120\<id>\17_MER_CH3_<id>.dat
+10:13:00 -- Start recording in file patienten\P120\<id>\17_MER_CH3_<id>.dat
+10:13:00 -- EMG-Datafile opened: patienten\P120\<id>\17_TRG_<id>.dat
+10:13:00 -- EMG-Datafile opened: patienten\P120\<id>\17_STIM_<id>.dat
+10:13:00 -- Start recording in file patienten\P120\<id>\17_TRG_<id>.dat
+10:13:00 -- Start recording in file patienten\P120\<id>\17_STIM_<id>.dat
+10:13:47 -- 
+10:13:47 -- ------------------------------------------ 
+10:13:47 -- New site no 18 created( Depth: -1,5 mm )
+10:13:47 -- 
+10:13:47 -- Quantisation: 16 Bit
+10:13:47 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:13:47 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:13:47 -- Datafile opened: patienten\P120\<id>\18_MER_CH1_<id>.dat
+10:13:47 -- Start recording in file patienten\P120\<id>\18_MER_CH1_<id>.dat
+10:13:47 -- Datafile opened: patienten\P120\<id>\18_MER_CH2_<id>.dat
+10:13:47 -- Start recording in file patienten\P120\<id>\18_MER_CH2_<id>.dat
+10:13:47 -- Datafile opened: patienten\P120\<id>\18_MER_CH3_<id>.dat
+10:13:47 -- Start recording in file patienten\P120\<id>\18_MER_CH3_<id>.dat
+10:13:47 -- EMG-Datafile opened: patienten\P120\<id>\18_TRG_<id>.dat
+10:13:47 -- EMG-Datafile opened: patienten\P120\<id>\18_STIM_<id>.dat
+10:13:47 -- Start recording in file patienten\P120\<id>\18_TRG_<id>.dat
+10:13:47 -- Start recording in file patienten\P120\<id>\18_STIM_<id>.dat
+10:14:20 -- 
+10:14:20 -- ------------------------------------------ 
+10:14:20 -- New site no 19 created( Depth: -1,0 mm )
+10:14:20 -- 
+10:14:20 -- Quantisation: 16 Bit
+10:14:20 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:14:20 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:14:21 -- Datafile opened: patienten\P120\<id>\19_MER_CH1_<id>.dat
+10:14:21 -- Start recording in file patienten\P120\<id>\19_MER_CH1_<id>.dat
+10:14:21 -- Datafile opened: patienten\P120\<id>\19_MER_CH2_<id>.dat
+10:14:21 -- Start recording in file patienten\P120\<id>\19_MER_CH2_<id>.dat
+10:14:21 -- Datafile opened: patienten\P120\<id>\19_MER_CH3_<id>.dat
+10:14:21 -- Start recording in file patienten\P120\<id>\19_MER_CH3_<id>.dat
+10:14:21 -- EMG-Datafile opened: patienten\P120\<id>\19_TRG_<id>.dat
+10:14:21 -- EMG-Datafile opened: patienten\P120\<id>\19_STIM_<id>.dat
+10:14:21 -- Start recording in file patienten\P120\<id>\19_TRG_<id>.dat
+10:14:21 -- Start recording in file patienten\P120\<id>\19_STIM_<id>.dat
+10:15:07 -- 
+10:15:07 -- ------------------------------------------ 
+10:15:07 -- New site no 20 created( Depth: -0,5 mm )
+10:15:07 -- 
+10:15:07 -- Quantisation: 16 Bit
+10:15:07 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:15:07 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:15:07 -- Datafile opened: patienten\P120\<id>\20_MER_CH1_<id>.dat
+10:15:07 -- Start recording in file patienten\P120\<id>\20_MER_CH1_<id>.dat
+10:15:07 -- Datafile opened: patienten\P120\<id>\20_MER_CH2_<id>.dat
+10:15:07 -- Start recording in file patienten\P120\<id>\20_MER_CH2_<id>.dat
+10:15:07 -- Datafile opened: patienten\P120\<id>\20_MER_CH3_<id>.dat
+10:15:07 -- Start recording in file patienten\P120\<id>\20_MER_CH3_<id>.dat
+10:15:07 -- EMG-Datafile opened: patienten\P120\<id>\20_TRG_<id>.dat
+10:15:07 -- EMG-Datafile opened: patienten\P120\<id>\20_STIM_<id>.dat
+10:15:07 -- Start recording in file patienten\P120\<id>\20_TRG_<id>.dat
+10:15:07 -- Start recording in file patienten\P120\<id>\20_STIM_<id>.dat
+10:15:32 -- 
+10:15:32 -- ------------------------------------------ 
+10:15:32 -- New site no 21 created( Depth: 0,0 mm )
+10:15:32 -- 
+10:15:32 -- Quantisation: 16 Bit
+10:15:32 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:15:32 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:15:32 -- Datafile opened: patienten\P120\<id>\21_MER_CH1_<id>.dat
+10:15:32 -- Start recording in file patienten\P120\<id>\21_MER_CH1_<id>.dat
+10:15:32 -- Datafile opened: patienten\P120\<id>\21_MER_CH2_<id>.dat
+10:15:32 -- Start recording in file patienten\P120\<id>\21_MER_CH2_<id>.dat
+10:15:32 -- Datafile opened: patienten\P120\<id>\21_MER_CH3_<id>.dat
+10:15:32 -- Start recording in file patienten\P120\<id>\21_MER_CH3_<id>.dat
+10:15:32 -- EMG-Datafile opened: patienten\P120\<id>\21_TRG_<id>.dat
+10:15:32 -- EMG-Datafile opened: patienten\P120\<id>\21_STIM_<id>.dat
+10:15:32 -- Start recording in file patienten\P120\<id>\21_TRG_<id>.dat
+10:15:32 -- Start recording in file patienten\P120\<id>\21_STIM_<id>.dat
+10:16:14 -- 
+10:16:14 -- ------------------------------------------ 
+10:16:14 -- New site no 22 created( Depth: 0,5 mm )
+10:16:14 -- 
+10:16:14 -- Quantisation: 16 Bit
+10:16:14 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:16:14 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:16:14 -- Datafile opened: patienten\P120\<id>\22_MER_CH1_<id>.dat
+10:16:14 -- Start recording in file patienten\P120\<id>\22_MER_CH1_<id>.dat
+10:16:14 -- Datafile opened: patienten\P120\<id>\22_MER_CH2_<id>.dat
+10:16:14 -- Start recording in file patienten\P120\<id>\22_MER_CH2_<id>.dat
+10:16:14 -- Datafile opened: patienten\P120\<id>\22_MER_CH3_<id>.dat
+10:16:14 -- Start recording in file patienten\P120\<id>\22_MER_CH3_<id>.dat
+10:16:14 -- EMG-Datafile opened: patienten\P120\<id>\22_TRG_<id>.dat
+10:16:14 -- EMG-Datafile opened: patienten\P120\<id>\22_STIM_<id>.dat
+10:16:14 -- Start recording in file patienten\P120\<id>\22_TRG_<id>.dat
+10:16:14 -- Start recording in file patienten\P120\<id>\22_STIM_<id>.dat
+10:16:57 -- 
+10:16:57 -- ------------------------------------------ 
+10:16:57 -- New site no 23 created( Depth: 1,0 mm )
+10:16:57 -- 
+10:16:57 -- Quantisation: 16 Bit
+10:16:57 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:16:57 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:16:58 -- Datafile opened: patienten\P120\<id>\23_MER_CH1_<id>.dat
+10:16:58 -- Start recording in file patienten\P120\<id>\23_MER_CH1_<id>.dat
+10:16:58 -- Datafile opened: patienten\P120\<id>\23_MER_CH2_<id>.dat
+10:16:58 -- Start recording in file patienten\P120\<id>\23_MER_CH2_<id>.dat
+10:16:58 -- Datafile opened: patienten\P120\<id>\23_MER_CH3_<id>.dat
+10:16:58 -- Start recording in file patienten\P120\<id>\23_MER_CH3_<id>.dat
+10:16:58 -- EMG-Datafile opened: patienten\P120\<id>\23_TRG_<id>.dat
+10:16:58 -- EMG-Datafile opened: patienten\P120\<id>\23_STIM_<id>.dat
+10:16:58 -- Start recording in file patienten\P120\<id>\23_TRG_<id>.dat
+10:16:58 -- Start recording in file patienten\P120\<id>\23_STIM_<id>.dat
+10:18:03 -- 
+10:18:03 -- ------------------------------------------ 
+10:18:03 -- New site no 24 created( Depth: 1,5 mm )
+10:18:03 -- 
+10:18:03 -- Quantisation: 16 Bit
+10:18:03 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:18:03 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:18:03 -- Datafile opened: patienten\P120\<id>\24_MER_CH1_<id>.dat
+10:18:03 -- Start recording in file patienten\P120\<id>\24_MER_CH1_<id>.dat
+10:18:03 -- Datafile opened: patienten\P120\<id>\24_MER_CH2_<id>.dat
+10:18:03 -- Start recording in file patienten\P120\<id>\24_MER_CH2_<id>.dat
+10:18:03 -- Datafile opened: patienten\P120\<id>\24_MER_CH3_<id>.dat
+10:18:03 -- Start recording in file patienten\P120\<id>\24_MER_CH3_<id>.dat
+10:18:03 -- EMG-Datafile opened: patienten\P120\<id>\24_TRG_<id>.dat
+10:18:03 -- EMG-Datafile opened: patienten\P120\<id>\24_STIM_<id>.dat
+10:18:03 -- Start recording in file patienten\P120\<id>\24_TRG_<id>.dat
+10:18:03 -- Start recording in file patienten\P120\<id>\24_STIM_<id>.dat
+10:18:44 -- 
+10:18:44 -- ------------------------------------------ 
+10:18:44 -- New site no 25 created( Depth: 2,0 mm )
+10:18:44 -- 
+10:18:44 -- Quantisation: 16 Bit
+10:18:44 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:18:44 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:18:44 -- Datafile opened: patienten\P120\<id>\25_MER_CH1_<id>.dat
+10:18:44 -- Start recording in file patienten\P120\<id>\25_MER_CH1_<id>.dat
+10:18:44 -- Datafile opened: patienten\P120\<id>\25_MER_CH2_<id>.dat
+10:18:44 -- Start recording in file patienten\P120\<id>\25_MER_CH2_<id>.dat
+10:18:44 -- Datafile opened: patienten\P120\<id>\25_MER_CH3_<id>.dat
+10:18:44 -- Start recording in file patienten\P120\<id>\25_MER_CH3_<id>.dat
+10:18:44 -- EMG-Datafile opened: patienten\P120\<id>\25_TRG_<id>.dat
+10:18:44 -- EMG-Datafile opened: patienten\P120\<id>\25_STIM_<id>.dat
+10:18:44 -- Start recording in file patienten\P120\<id>\25_TRG_<id>.dat
+10:18:44 -- Start recording in file patienten\P120\<id>\25_STIM_<id>.dat
+10:19:20 -- 
+10:19:20 -- ------------------------------------------ 
+10:19:20 -- New site no 26 created( Depth: 2,5 mm )
+10:19:20 -- 
+10:19:20 -- Quantisation: 16 Bit
+10:19:20 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:19:20 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:19:20 -- Datafile opened: patienten\P120\<id>\26_MER_CH1_<id>.dat
+10:19:20 -- Start recording in file patienten\P120\<id>\26_MER_CH1_<id>.dat
+10:19:20 -- Datafile opened: patienten\P120\<id>\26_MER_CH2_<id>.dat
+10:19:20 -- Start recording in file patienten\P120\<id>\26_MER_CH2_<id>.dat
+10:19:20 -- Datafile opened: patienten\P120\<id>\26_MER_CH3_<id>.dat
+10:19:20 -- Start recording in file patienten\P120\<id>\26_MER_CH3_<id>.dat
+10:19:20 -- EMG-Datafile opened: patienten\P120\<id>\26_TRG_<id>.dat
+10:19:20 -- EMG-Datafile opened: patienten\P120\<id>\26_STIM_<id>.dat
+10:19:20 -- Start recording in file patienten\P120\<id>\26_TRG_<id>.dat
+10:19:20 -- Start recording in file patienten\P120\<id>\26_STIM_<id>.dat
+10:21:13 -- 
+10:21:13 -- ------------------------------------------ 
+10:21:13 -- New site no 27 created( Depth: 3,0 mm )
+10:21:13 -- 
+10:21:13 -- Quantisation: 16 Bit
+10:21:13 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:21:13 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:21:13 -- Datafile opened: patienten\P120\<id>\27_MER_CH1_<id>.dat
+10:21:13 -- Start recording in file patienten\P120\<id>\27_MER_CH1_<id>.dat
+10:21:13 -- Datafile opened: patienten\P120\<id>\27_MER_CH2_<id>.dat
+10:21:13 -- Start recording in file patienten\P120\<id>\27_MER_CH2_<id>.dat
+10:21:13 -- Datafile opened: patienten\P120\<id>\27_MER_CH3_<id>.dat
+10:21:13 -- Start recording in file patienten\P120\<id>\27_MER_CH3_<id>.dat
+10:21:13 -- EMG-Datafile opened: patienten\P120\<id>\27_TRG_<id>.dat
+10:21:13 -- EMG-Datafile opened: patienten\P120\<id>\27_STIM_<id>.dat
+10:21:13 -- Start recording in file patienten\P120\<id>\27_TRG_<id>.dat
+10:21:13 -- Start recording in file patienten\P120\<id>\27_STIM_<id>.dat
+10:21:18 -- 
+10:21:18 -- ------------------------------------------ 
+10:21:18 -- New site no 28 created( Depth: 3,5 mm )
+10:21:18 -- 
+10:21:18 -- Quantisation: 16 Bit
+10:21:18 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:21:18 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:21:18 -- Datafile opened: patienten\P120\<id>\28_MER_CH1_<id>.dat
+10:21:18 -- Start recording in file patienten\P120\<id>\28_MER_CH1_<id>.dat
+10:21:18 -- Datafile opened: patienten\P120\<id>\28_MER_CH2_<id>.dat
+10:21:18 -- Start recording in file patienten\P120\<id>\28_MER_CH2_<id>.dat
+10:21:18 -- Datafile opened: patienten\P120\<id>\28_MER_CH3_<id>.dat
+10:21:18 -- Start recording in file patienten\P120\<id>\28_MER_CH3_<id>.dat
+10:21:18 -- EMG-Datafile opened: patienten\P120\<id>\28_TRG_<id>.dat
+10:21:18 -- EMG-Datafile opened: patienten\P120\<id>\28_STIM_<id>.dat
+10:21:18 -- Start recording in file patienten\P120\<id>\28_TRG_<id>.dat
+10:21:18 -- Start recording in file patienten\P120\<id>\28_STIM_<id>.dat
+10:21:54 -- 
+10:21:54 -- ------------------------------------------ 
+10:21:54 -- New site no 29 created( Depth: 4,0 mm )
+10:21:54 -- 
+10:21:54 -- Quantisation: 16 Bit
+10:21:54 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central, 3: Posterior
+10:21:54 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:21:55 -- Datafile opened: patienten\P120\<id>\29_MER_CH1_<id>.dat
+10:21:55 -- Start recording in file patienten\P120\<id>\29_MER_CH1_<id>.dat
+10:21:55 -- Datafile opened: patienten\P120\<id>\29_MER_CH2_<id>.dat
+10:21:55 -- Start recording in file patienten\P120\<id>\29_MER_CH2_<id>.dat
+10:21:55 -- Datafile opened: patienten\P120\<id>\29_MER_CH3_<id>.dat
+10:21:55 -- Start recording in file patienten\P120\<id>\29_MER_CH3_<id>.dat
+10:21:55 -- EMG-Datafile opened: patienten\P120\<id>\29_TRG_<id>.dat
+10:21:55 -- EMG-Datafile opened: patienten\P120\<id>\29_STIM_<id>.dat
+10:21:55 -- Start recording in file patienten\P120\<id>\29_TRG_<id>.dat
+10:21:55 -- Start recording in file patienten\P120\<id>\29_STIM_<id>.dat
+10:23:34 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:23:34 -- Current Confirm - On
+10:23:52 -- Stimulation ended
+10:23:52 -- 
+10:23:52 -- Current Confirm - Off
+10:24:06 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:24:06 -- Current Confirm - On
+10:24:14 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:24:24 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:24:41 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:24:57 -- Stimulation ended
+10:24:57 -- 
+10:24:57 -- Current Confirm - Off
+10:25:03 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:25:03 -- Current Confirm - On
+10:25:10 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:25:50 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:25:52 -- Stimulation ended
+10:25:52 -- 
+10:25:52 -- Current Confirm - Off
+10:25:58 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:25:58 -- Current Confirm - On
+10:26:07 -- Stimulation ended
+10:26:07 -- 
+10:26:07 -- Current Confirm - Off
+10:26:23 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:26:23 -- Current Confirm - On
+10:26:24 -- Stimulation ended
+10:26:24 -- 
+10:26:24 -- Current Confirm - Off
+10:26:30 -- Stimulation->  Electrode:Ma  Channel:1  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:26:30 -- Current Confirm - On
+10:26:31 -- Stimulation ended
+10:26:31 -- 
+10:26:31 -- Current Confirm - Off
+10:27:34 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:27:34 -- Current Confirm - On
+10:27:37 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:27:47 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:28:09 -- Stimulation ended
+10:28:09 -- 
+10:28:09 -- Current Confirm - Off
+10:28:18 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:28:18 -- Current Confirm - On
+10:28:25 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:28:59 -- Stimulation ended
+10:28:59 -- 
+10:28:59 -- Current Confirm - Off
+10:29:09 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:29:09 -- Current Confirm - On
+10:29:21 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:29:48 -- Stimulation ended
+10:29:48 -- 
+10:29:48 -- Current Confirm - Off
+10:29:56 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:29:56 -- Current Confirm - On
+10:30:07 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:30:34 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:30:42 -- Stimulation ended
+10:30:42 -- 
+10:30:42 -- Current Confirm - Off
+10:30:56 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:30:56 -- Current Confirm - On
+10:31:22 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+10:32:02 -- Stimulation ended
+10:32:02 -- 
+10:32:02 -- Current Confirm - Off
+10:32:18 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+10:32:18 -- Current Confirm - On
+10:32:30 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:32:46 -- Stimulation ended
+10:32:46 -- 
+10:32:46 -- Current Confirm - Off
+10:32:56 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:32:56 -- Current Confirm - On
+10:33:02 -- Stimulation ended
+10:33:02 -- 
+10:33:02 -- Current Confirm - Off
+10:33:19 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:33:19 -- Current Confirm - On
+10:33:21 -- Stimulation ended
+10:33:21 -- 
+10:33:21 -- Current Confirm - Off
+10:33:26 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:33:26 -- Current Confirm - On
+10:33:27 -- Stimulation ended
+10:33:27 -- 
+10:33:27 -- Current Confirm - Off
+10:34:27 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:34:27 -- Current Confirm - On
+10:34:28 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:34:44 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:34:50 -- Stimulation ended
+10:34:50 -- 
+10:34:50 -- Current Confirm - Off
+10:34:55 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:34:55 -- Current Confirm - On
+10:35:00 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:35:06 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:35:11 -- Stimulation ended
+10:35:11 -- 
+10:35:11 -- Current Confirm - Off
+10:35:18 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:35:19 -- Current Confirm - On
+10:35:34 -- Stimulation ended
+10:35:34 -- 
+10:35:34 -- Current Confirm - Off
+10:35:44 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:35:44 -- Current Confirm - On
+10:36:05 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:36:14 -- Stimulation ended
+10:36:14 -- 
+10:36:14 -- Current Confirm - Off
+10:36:17 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:36:17 -- Current Confirm - On
+10:36:32 -- Stimulation ended
+10:36:32 -- 
+10:36:32 -- Current Confirm - Off
+10:36:38 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:36:39 -- Current Confirm - On
+10:36:44 -- Stimulation ended
+10:36:44 -- 
+10:36:44 -- Current Confirm - Off
+10:38:58 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:38:58 -- Current Confirm - On
+10:39:38 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:39:43 -- Stimulation ended
+10:39:43 -- 
+10:39:43 -- Current Confirm - Off
+10:40:15 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:40:16 -- Current Confirm - On
+10:40:18 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:40:42 -- Stimulation ended
+10:40:42 -- 
+10:40:42 -- Current Confirm - Off
+10:40:47 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:40:47 -- Current Confirm - On
+10:40:52 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:40:57 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:41:06 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:41:16 -- Stimulation ended
+10:41:16 -- 
+10:41:16 -- Current Confirm - Off
+10:41:22 -- Stimulation->  Electrode:Ma  Channel:3  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:41:22 -- Current Confirm - On
+10:42:15 -- Stimulation ended
+10:42:15 -- 
+10:42:15 -- Current Confirm - Off
+10:42:20 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:42:20 -- Current Confirm - On
+10:42:23 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:42:34 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:42:48 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:42:56 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:43:05 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:43:21 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:43:30 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+10:43:37 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:44:10 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+10:44:39 -- Stimulation ended
+10:44:39 -- 
+10:44:39 -- Current Confirm - Off
+10:44:45 -- Stimulation->  Electrode:Ma  Channel:2  Depth:2  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+10:44:45 -- Current Confirm - On
+10:44:48 -- Stimulation ended
+10:44:48 -- 
+10:44:48 -- Current Confirm - Off
+10:48:54 -- Connection to OSIRIS ended
+10:48:54 -- User interrupts connection
+10:48:55 -- Stop recording in file patienten\P120\<id>\29_MER_CH1_<id>.dat
+10:48:55 -- Stop recording in file patienten\P120\<id>\29_MER_CH2_<id>.dat
+10:48:55 -- Stop recording in file patienten\P120\<id>\29_MER_CH3_<id>.dat
+10:48:55 -- Stop recording in file patienten\P120\<id>\29_TRG_<id>.dat
+10:48:55 -- Stop recording in file patienten\P120\<id>\29_STIM_<id>.dat
+10:48:57 -- Complete reset - sites are going to be deleted from display
+
+ (not from hard disc)
+11:26:50 -- Normal mode on

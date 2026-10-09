@@ -1,0 +1,9 @@
+filename	depth_mm	electrode_label	trajectory	protocol_site_no	protocol_sites_at_depth	source_file	source_time_start_s	source_time_end_s	n_samples	has_raw_channel	annotated_structure
+ieeg/sub-P111_task-mer_acq-central_run-001_ieeg.vhdr	-10.0	Central	central	1	1	dataset/MER/P111/depth-10,0_kanalCentral.csv	0.0	2.49995	50000	no	n/a
+ieeg/sub-P111_task-mer_acq-central_run-002_ieeg.vhdr	-9.7	Central	central	2	1	dataset/MER/P111/depth-9,7_kanalCentral.csv	0.49995	4.86195	87241	no	n/a
+ieeg/sub-P111_task-mer_acq-central_run-003_ieeg.vhdr	-8.5	Central	central	6	1	dataset/MER/P111/depth-8,5_kanalCentral.csv	4.49995	13.49995	180001	no	n/a
+ieeg/sub-P111_task-mer_acq-central_run-004_ieeg.vhdr	-7.9	Central	central	8	1	dataset/MER/P111/depth-7,9_kanalCentral.csv	0.49995	2.49995	40001	no	n/a
+ieeg/sub-P111_task-mer_acq-lateral_run-001_ieeg.vhdr	-9.7	Lateral	lateral	2	1	dataset/MER/P111/depth-9,7_kanalLateral.csv	0.49995	4.86195	87241	no	n/a
+ieeg/sub-P111_task-mer_acq-lateral_run-002_ieeg.vhdr	-8.5	Lateral	lateral	6	1	dataset/MER/P111/depth-8,5_kanalLateral.csv	6.99995	23.92215	338445	no	n/a
+ieeg/sub-P111_task-mer_acq-lateral_run-003_ieeg.vhdr	-7.9	Lateral	lateral	8	1	dataset/MER/P111/depth-7,9_kanalLateral.csv	0.49995	2.49995	40001	no	n/a
+ieeg/sub-P111_task-mer_acq-lateral_run-004_ieeg.vhdr	-7.3	Lateral	lateral	10	1	dataset/MER/P111/depth-7,3_kanalLateral.csv	0.0	2.20795	44160	no	n/a

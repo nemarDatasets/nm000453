@@ -1,0 +1,327 @@
+Report file opened for P072 (P072), 2015-12-01 Version 3.2.1.0
+12:35:27 -- New OP defined
+12:38:52 -- User tries to create connection
+12:38:52 -- Connecting to ISIS Headbox...
+12:38:53 -- HeadBox Software :ISIS Headbox SW Version : ISIS Headbox Version DSP - Prog: 16x20
+12:38:53 -- HeadBox IP: USB-Device-Nr: 0
+12:38:53 -- C ISIS Headbox-1227062 e
+12:38:54 -- Connection to OSIRIS established! Software: 1.15 BIOS:  Version:MER
+12:39:39 -- ChannelEnabled[0] = 1
+12:39:39 -- 1: Medial:  4,0 MOhm
+12:39:39 -- ChannelEnabled[1] = 2
+12:39:39 -- 2: Central:  4,5 MOhm
+12:39:39 -- ChannelEnabled[2] = 3
+12:39:39 -- 3: Posterior:  4,9 MOhm
+12:39:39 -- 
+13:57:05 -- ChannelEnabled[0] = 1
+13:57:05 -- 1: Medial:  1,2 MOhm
+13:57:05 -- ChannelEnabled[1] = 2
+13:57:05 -- 2: Central:  1,6 MOhm
+13:57:05 -- ChannelEnabled[2] = 3
+13:57:05 -- 3: Posterior:  1,6 MOhm
+13:57:05 -- 
+13:57:35 -- 
+13:57:35 -- ------------------------------------------ 
+13:57:35 -- New site no 1 created( Depth: -10.0 mm )
+13:57:35 -- 
+13:57:35 -- Quantisation: 16 Bit
+13:57:35 -- Sampling rate: 20000Hz, channel configuration: 1: Medial, 2: Central, 3: Posterior
+13:57:35 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+13:57:35 -- Datafile opened: patienten\P072\<id>\01_MER_CH1_<id>.dat
+13:57:35 -- Start recording in file patienten\P072\<id>\01_MER_CH1_<id>.dat
+13:57:35 -- Datafile opened: patienten\P072\<id>\01_MER_CH2_<id>.dat
+13:57:35 -- Start recording in file patienten\P072\<id>\01_MER_CH2_<id>.dat
+13:57:35 -- Datafile opened: patienten\P072\<id>\01_MER_CH3_<id>.dat
+13:57:35 -- Start recording in file patienten\P072\<id>\01_MER_CH3_<id>.dat
+13:57:35 -- EMG-Datafile opened: patienten\P072\<id>\01_TRG_<id>.dat
+13:57:35 -- EMG-Datafile opened: patienten\P072\<id>\01_STIM_<id>.dat
+13:57:35 -- Start recording in file patienten\P072\<id>\01_TRG_<id>.dat
+13:57:35 -- Start recording in file patienten\P072\<id>\01_STIM_<id>.dat
+14:15:10 -- MER Error: You must first focus the channel window, in which you want to stimulate!
+14:15:36 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+14:15:37 -- Current Confirm - On
+14:15:42 -- Stimulation ended
+14:15:42 -- 
+14:15:42 -- Current Confirm - Off
+14:16:08 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+14:16:08 -- Current Confirm - On
+14:16:44 -- Stimulation ended
+14:16:44 -- 
+14:16:44 -- Current Confirm - Off
+14:16:48 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+14:16:49 -- Current Confirm - On
+14:17:12 -- Stimulation ended
+14:17:12 -- 
+14:17:12 -- Current Confirm - Off
+14:17:18 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+14:17:18 -- Current Confirm - On
+14:17:40 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+14:18:04 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+14:18:29 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:18:53 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+14:19:24 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+14:19:54 -- Stimulation ended
+14:19:54 -- 
+14:19:54 -- Current Confirm - Off
+14:19:58 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+14:19:58 -- Current Confirm - On
+14:20:00 -- Stimulation ended
+14:20:00 -- 
+14:20:00 -- Current Confirm - Off
+14:20:03 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+14:20:03 -- Current Confirm - On
+14:20:05 -- Stimulation ended
+14:20:05 -- 
+14:20:05 -- Current Confirm - Off
+14:20:09 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:20:09 -- Current Confirm - On
+14:20:36 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+14:21:05 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):5,50  Freq(Hz):130  Pulse(us):60
+14:21:37 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:10 -- Stimulation ended
+14:22:10 -- 
+14:22:10 -- Current Confirm - Off
+14:22:13 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:13 -- Current Confirm - On
+14:22:15 -- Stimulation ended
+14:22:15 -- 
+14:22:15 -- Current Confirm - Off
+14:22:16 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:16 -- Current Confirm - On
+14:22:17 -- Stimulation ended
+14:22:17 -- 
+14:22:17 -- Current Confirm - Off
+14:22:18 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:19 -- Current Confirm - On
+14:22:26 -- Stimulation ended
+14:22:26 -- 
+14:22:26 -- Current Confirm - Off
+14:22:28 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:28 -- Current Confirm - On
+14:22:32 -- Stimulation ended
+14:22:32 -- 
+14:22:32 -- Current Confirm - Off
+14:22:35 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:35 -- Current Confirm - On
+14:22:39 -- Stimulation ended
+14:22:39 -- 
+14:22:39 -- Current Confirm - Off
+14:22:42 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:22:42 -- Current Confirm - On
+14:22:46 -- Stimulation ended
+14:22:46 -- 
+14:22:46 -- Current Confirm - Off
+14:24:03 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:24:03 -- Current Confirm - On
+14:24:16 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+14:24:18 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+14:24:19 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:24:51 -- Stimulation ended
+14:24:51 -- 
+14:24:51 -- Current Confirm - Off
+14:24:53 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:24:54 -- Current Confirm - On
+14:24:57 -- Stimulation ended
+14:24:57 -- 
+14:24:57 -- Current Confirm - Off
+14:25:01 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:25:01 -- Current Confirm - On
+14:25:02 -- Stimulation ended
+14:25:02 -- 
+14:25:02 -- Current Confirm - Off
+14:25:06 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:25:07 -- Current Confirm - On
+14:25:09 -- Stimulation ended
+14:25:09 -- 
+14:25:09 -- Current Confirm - Off
+14:25:26 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:25:26 -- Current Confirm - On
+14:25:58 -- Stimulation ended
+14:25:58 -- 
+14:25:58 -- Current Confirm - Off
+14:26:03 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:26:03 -- Current Confirm - On
+14:26:05 -- Stimulation ended
+14:26:05 -- 
+14:26:05 -- Current Confirm - Off
+14:26:10 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:26:10 -- Current Confirm - On
+14:26:13 -- Stimulation ended
+14:26:13 -- 
+14:26:13 -- Current Confirm - Off
+14:26:25 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:26:25 -- Current Confirm - On
+14:27:05 -- Stimulation ended
+14:27:05 -- 
+14:27:05 -- Current Confirm - Off
+14:27:09 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:27:09 -- Current Confirm - On
+14:27:11 -- Stimulation ended
+14:27:11 -- 
+14:27:11 -- Current Confirm - Off
+14:27:12 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:27:13 -- Current Confirm - On
+14:27:31 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+14:27:39 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:27:40 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+14:27:41 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+14:27:41 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+14:27:50 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+14:27:52 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+14:27:58 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+14:28:04 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):5,50  Freq(Hz):130  Pulse(us):60
+14:28:05 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:28:38 -- Stimulation ended
+14:28:38 -- 
+14:28:38 -- Current Confirm - Off
+14:28:42 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-10  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+14:28:43 -- Current Confirm - On
+14:28:48 -- Stimulation ended
+14:28:48 -- 
+14:28:48 -- Current Confirm - Off
+15:12:57 -- Stop recording in file patienten\P072\<id>\01_MER_CH1_<id>.dat
+15:12:57 -- Stop recording in file patienten\P072\<id>\01_MER_CH2_<id>.dat
+15:12:57 -- Stop recording in file patienten\P072\<id>\01_MER_CH3_<id>.dat
+15:12:57 -- Stop recording in file patienten\P072\<id>\01_TRG_<id>.dat
+15:12:57 -- Stop recording in file patienten\P072\<id>\01_STIM_<id>.dat
+15:13:05 -- 
+15:13:05 -- ------------------------------------------ 
+15:13:05 -- New site no 2 created( Depth: -9,8 mm )
+15:13:05 -- 
+15:13:05 -- Quantisation: 16 Bit
+15:13:05 -- Sampling rate: 20000Hz, channel configuration: 1: Medial, 2: Central, 3: Posterior
+15:13:05 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+15:13:06 -- Start recording in file patienten\P072\<id>\01_MER_CH1_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\01_MER_CH2_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\01_MER_CH3_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\01_TRG_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\01_STIM_<id>.dat
+15:13:06 -- Datafile opened: patienten\P072\<id>\02_MER_CH1_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\02_MER_CH1_<id>.dat
+15:13:06 -- Datafile opened: patienten\P072\<id>\02_MER_CH2_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\02_MER_CH2_<id>.dat
+15:13:06 -- Datafile opened: patienten\P072\<id>\02_MER_CH3_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\02_MER_CH3_<id>.dat
+15:13:06 -- EMG-Datafile opened: patienten\P072\<id>\02_TRG_<id>.dat
+15:13:06 -- EMG-Datafile opened: patienten\P072\<id>\02_STIM_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\02_TRG_<id>.dat
+15:13:06 -- Start recording in file patienten\P072\<id>\02_STIM_<id>.dat
+15:15:17 -- 
+15:15:17 -- ------------------------------------------ 
+15:15:17 -- New site no 3 created( Depth: -9,6 mm )
+15:15:17 -- 
+15:15:17 -- Quantisation: 16 Bit
+15:15:17 -- Sampling rate: 20000Hz, channel configuration: 1: Medial, 2: Central, 3: Posterior
+15:15:17 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+15:15:18 -- Datafile opened: patienten\P072\<id>\03_MER_CH1_<id>.dat
+15:15:18 -- Start recording in file patienten\P072\<id>\03_MER_CH1_<id>.dat
+15:15:18 -- Datafile opened: patienten\P072\<id>\03_MER_CH2_<id>.dat
+15:15:18 -- Start recording in file patienten\P072\<id>\03_MER_CH2_<id>.dat
+15:15:18 -- Datafile opened: patienten\P072\<id>\03_MER_CH3_<id>.dat
+15:15:18 -- Start recording in file patienten\P072\<id>\03_MER_CH3_<id>.dat
+15:15:18 -- EMG-Datafile opened: patienten\P072\<id>\03_TRG_<id>.dat
+15:15:18 -- EMG-Datafile opened: patienten\P072\<id>\03_STIM_<id>.dat
+15:15:18 -- Start recording in file patienten\P072\<id>\03_TRG_<id>.dat
+15:15:18 -- Start recording in file patienten\P072\<id>\03_STIM_<id>.dat
+15:24:50 -- MER Error: You must first focus the channel window, in which you want to stimulate!
+15:25:07 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+15:25:07 -- Current Confirm - On
+15:25:36 -- Stimulation ended
+15:25:36 -- 
+15:25:36 -- Current Confirm - Off
+15:25:53 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+15:25:53 -- Current Confirm - On
+15:26:25 -- Stimulation ended
+15:26:25 -- 
+15:26:25 -- Current Confirm - Off
+15:26:33 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+15:26:34 -- Current Confirm - On
+15:26:45 -- Stimulation ended
+15:26:45 -- 
+15:26:45 -- Current Confirm - Off
+15:26:48 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+15:26:48 -- Current Confirm - On
+15:26:57 -- Stimulation ended
+15:26:57 -- 
+15:26:57 -- Current Confirm - Off
+15:27:05 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+15:27:05 -- Current Confirm - On
+15:27:14 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+15:27:15 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+15:27:28 -- Stimulation ended
+15:27:28 -- 
+15:27:28 -- Current Confirm - Off
+15:27:32 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+15:27:33 -- Current Confirm - On
+15:27:38 -- Stimulation ended
+15:27:38 -- 
+15:27:38 -- Current Confirm - Off
+15:27:40 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+15:27:40 -- Current Confirm - On
+15:27:42 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+15:27:44 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+15:28:09 -- Stimulation ended
+15:28:09 -- 
+15:28:09 -- Current Confirm - Off
+15:28:14 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+15:28:15 -- Current Confirm - On
+15:28:18 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+15:28:51 -- Stimulation ended
+15:28:51 -- 
+15:28:51 -- Current Confirm - Off
+15:28:54 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+15:28:54 -- Current Confirm - On
+15:28:56 -- Stimulation ended
+15:28:56 -- 
+15:28:56 -- Current Confirm - Off
+15:29:02 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:29:02 -- Current Confirm - On
+15:29:11 -- Stimulation ended
+15:29:11 -- 
+15:29:11 -- Current Confirm - Off
+15:29:17 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:29:17 -- Current Confirm - On
+15:29:38 -- Stimulation ended
+15:29:38 -- 
+15:29:38 -- Current Confirm - Off
+15:29:41 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:29:41 -- Current Confirm - On
+15:30:06 -- Stimulation ended
+15:30:06 -- 
+15:30:06 -- Current Confirm - Off
+15:30:13 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:30:13 -- Current Confirm - On
+15:30:16 -- Stimulation ended
+15:30:16 -- 
+15:30:17 -- Current Confirm - Off
+15:30:18 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:30:19 -- Current Confirm - On
+15:30:20 -- Stimulation ended
+15:30:20 -- 
+15:30:20 -- Current Confirm - Off
+15:30:20 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:30:21 -- Current Confirm - On
+15:30:26 -- Stimulation ended
+15:30:26 -- 
+15:30:26 -- Current Confirm - Off
+15:30:29 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+15:30:30 -- Current Confirm - On
+15:30:30 -- Stimulation ended
+15:30:30 -- 
+15:30:30 -- Current Confirm - Off
+15:30:34 -- Stimulation->  Electrode:Ma  Channel:3  Depth:-9,6  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+15:30:34 -- Current Confirm - On
+15:31:06 -- Stimulation ended
+15:31:06 -- 
+15:31:06 -- Current Confirm - Off
+15:46:44 -- Connection to OSIRIS ended
+15:46:44 -- User interrupts connection
+15:46:44 -- Stop recording in file patienten\P072\<id>\03_MER_CH1_<id>.dat
+15:46:44 -- Stop recording in file patienten\P072\<id>\03_MER_CH2_<id>.dat
+15:46:44 -- Stop recording in file patienten\P072\<id>\03_MER_CH3_<id>.dat
+15:46:44 -- Stop recording in file patienten\P072\<id>\03_TRG_<id>.dat
+15:46:44 -- Stop recording in file patienten\P072\<id>\03_STIM_<id>.dat
+15:46:47 -- Complete reset - sites are going to be deleted from display
+
+ (not from hard disc)
+15:46:49 -- Application is going to be closed

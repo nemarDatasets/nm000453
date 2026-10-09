@@ -1,0 +1,2 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	group	status	status_description	description
+Posterior	DBS	µV	500	5000	20000.0	scalp reference electrode (article)	Posterior	good	n/a	Ben-gun microelectrode 'Posterior' (posterior); authors' '2: preprocessed' column: 4th-order Butterworth band-pass 500-5000 Hz (scipy lfilter), clipped to +-500; instrument units interpreted by the authors as µV-equivalent (unknown global scale)

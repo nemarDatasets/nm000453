@@ -1,0 +1,25 @@
+{
+  "trial_type": {
+    "Description": "Event type",
+    "Levels": {
+      "mer_segment": "the whole run: the segment of the MER recording kept by the authors' signal-quality classifier",
+      "annotated_GPi": "interval labelled internal globus pallidus by the authors' electrophysiologist (brain_layer_annotations)",
+      "annotated_GPe": "interval labelled external globus pallidus",
+      "annotated_STR_or_putamen": "interval labelled striatum or putamen"
+    }
+  },
+  "sample": {
+    "Description": "Onset sample (0-based, 20 kHz)"
+  },
+  "depth_mm": {
+    "Description": "Recording depth relative to the reference target (0 = target, negative = above target)",
+    "Units": "mm"
+  },
+  "source_time_s": {
+    "Description": "Value of the CSV 'Time' column at the event onset: seconds from the start of the original (unreleased) site recording",
+    "Units": "s"
+  },
+  "annotation_run": {
+    "Description": "task-merannot run holding the annotated excerpt"
+  }
+}

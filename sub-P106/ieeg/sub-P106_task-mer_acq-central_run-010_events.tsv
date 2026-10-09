@@ -1,0 +1,3 @@
+onset	duration	trial_type	sample	depth_mm	source_time_s	annotation_run
+0.0	4.0	mer_segment	0	-7.3	4.5	n/a
+3.2626	0.4143	annotated_GPe	65252	-7.3	7.7626	sub-P106_task-merannot_acq-central_run-007_ieeg.vhdr

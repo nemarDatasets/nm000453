@@ -1,0 +1,482 @@
+Report file opened for P061 (P061), 2016-01-01 Version 3.2.1.0
+10:39:10 -- New OP defined
+10:39:22 -- User tries to create connection
+10:39:22 -- Connecting to ISIS Headbox...
+10:39:23 -- HeadBox Software :ISIS Headbox SW Version : ISIS Headbox Version DSP - Prog: 16x20
+10:39:23 -- HeadBox IP: USB-Device-Nr: 0
+10:39:23 -- C ISIS Headbox-1227062 e
+10:39:24 -- Connection to OSIRIS established! Software: 1.15 BIOS:  Version:MER
+10:39:38 -- ChannelEnabled[0] = 1
+10:39:38 -- 1: Anterior:  4,5 MOhm
+10:39:38 -- ChannelEnabled[1] = 2
+10:39:38 -- 2: Central:  4,5 MOhm
+10:39:38 -- 
+10:39:59 -- ChannelEnabled[0] = 1
+10:39:59 -- 1: Anterior:  1,1 MOhm
+10:39:59 -- ChannelEnabled[1] = 2
+10:39:59 -- 2: Central:  1,4 MOhm
+10:39:59 -- 
+10:40:04 -- 
+10:40:04 -- ------------------------------------------ 
+10:40:04 -- New site no 1 created( Depth: -10,0 mm )
+10:40:04 -- 
+10:40:04 -- Quantisation: 16 Bit
+10:40:04 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:04 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:05 -- Datafile opened: patienten\P061\<id>\01_MER_CH1_<id>.dat
+10:40:05 -- Start recording in file patienten\P061\<id>\01_MER_CH1_<id>.dat
+10:40:05 -- Datafile opened: patienten\P061\<id>\01_MER_CH2_<id>.dat
+10:40:05 -- Start recording in file patienten\P061\<id>\01_MER_CH2_<id>.dat
+10:40:05 -- EMG-Datafile opened: patienten\P061\<id>\01_TRG_<id>.dat
+10:40:05 -- EMG-Datafile opened: patienten\P061\<id>\01_STIM_<id>.dat
+10:40:05 -- Start recording in file patienten\P061\<id>\01_TRG_<id>.dat
+10:40:05 -- Start recording in file patienten\P061\<id>\01_STIM_<id>.dat
+10:40:12 -- 
+10:40:12 -- ------------------------------------------ 
+10:40:12 -- New site no 2 created( Depth: -9,8 mm )
+10:40:12 -- 
+10:40:12 -- Quantisation: 16 Bit
+10:40:12 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:12 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:12 -- Datafile opened: patienten\P061\<id>\02_MER_CH1_<id>.dat
+10:40:12 -- Start recording in file patienten\P061\<id>\02_MER_CH1_<id>.dat
+10:40:12 -- Datafile opened: patienten\P061\<id>\02_MER_CH2_<id>.dat
+10:40:12 -- Start recording in file patienten\P061\<id>\02_MER_CH2_<id>.dat
+10:40:12 -- EMG-Datafile opened: patienten\P061\<id>\02_TRG_<id>.dat
+10:40:12 -- EMG-Datafile opened: patienten\P061\<id>\02_STIM_<id>.dat
+10:40:12 -- Start recording in file patienten\P061\<id>\02_TRG_<id>.dat
+10:40:12 -- Start recording in file patienten\P061\<id>\02_STIM_<id>.dat
+10:40:23 -- 
+10:40:23 -- ------------------------------------------ 
+10:40:23 -- New site no 3 created( Depth: -9,6 mm )
+10:40:23 -- 
+10:40:23 -- Quantisation: 16 Bit
+10:40:23 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:23 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:23 -- Datafile opened: patienten\P061\<id>\03_MER_CH1_<id>.dat
+10:40:23 -- Start recording in file patienten\P061\<id>\03_MER_CH1_<id>.dat
+10:40:23 -- Datafile opened: patienten\P061\<id>\03_MER_CH2_<id>.dat
+10:40:23 -- Start recording in file patienten\P061\<id>\03_MER_CH2_<id>.dat
+10:40:23 -- EMG-Datafile opened: patienten\P061\<id>\03_TRG_<id>.dat
+10:40:23 -- EMG-Datafile opened: patienten\P061\<id>\03_STIM_<id>.dat
+10:40:23 -- Start recording in file patienten\P061\<id>\03_TRG_<id>.dat
+10:40:23 -- Start recording in file patienten\P061\<id>\03_STIM_<id>.dat
+10:40:33 -- 
+10:40:33 -- ------------------------------------------ 
+10:40:33 -- New site no 4 created( Depth: -9,4 mm )
+10:40:33 -- 
+10:40:33 -- Quantisation: 16 Bit
+10:40:33 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:33 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:33 -- Datafile opened: patienten\P061\<id>\04_MER_CH1_<id>.dat
+10:40:33 -- Start recording in file patienten\P061\<id>\04_MER_CH1_<id>.dat
+10:40:33 -- Datafile opened: patienten\P061\<id>\04_MER_CH2_<id>.dat
+10:40:33 -- Start recording in file patienten\P061\<id>\04_MER_CH2_<id>.dat
+10:40:33 -- EMG-Datafile opened: patienten\P061\<id>\04_TRG_<id>.dat
+10:40:33 -- EMG-Datafile opened: patienten\P061\<id>\04_STIM_<id>.dat
+10:40:33 -- Start recording in file patienten\P061\<id>\04_TRG_<id>.dat
+10:40:33 -- Start recording in file patienten\P061\<id>\04_STIM_<id>.dat
+10:40:41 -- 
+10:40:41 -- ------------------------------------------ 
+10:40:41 -- New site no 5 created( Depth: -9,2 mm )
+10:40:41 -- 
+10:40:41 -- Quantisation: 16 Bit
+10:40:41 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:41 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:42 -- Datafile opened: patienten\P061\<id>\05_MER_CH1_<id>.dat
+10:40:42 -- Start recording in file patienten\P061\<id>\05_MER_CH1_<id>.dat
+10:40:42 -- Datafile opened: patienten\P061\<id>\05_MER_CH2_<id>.dat
+10:40:42 -- Start recording in file patienten\P061\<id>\05_MER_CH2_<id>.dat
+10:40:42 -- EMG-Datafile opened: patienten\P061\<id>\05_TRG_<id>.dat
+10:40:42 -- EMG-Datafile opened: patienten\P061\<id>\05_STIM_<id>.dat
+10:40:42 -- Start recording in file patienten\P061\<id>\05_TRG_<id>.dat
+10:40:42 -- Start recording in file patienten\P061\<id>\05_STIM_<id>.dat
+10:40:58 -- 
+10:40:58 -- ------------------------------------------ 
+10:40:58 -- New site no 6 created( Depth: -9,0 mm )
+10:40:58 -- 
+10:40:58 -- Quantisation: 16 Bit
+10:40:58 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:40:58 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:40:58 -- Datafile opened: patienten\P061\<id>\06_MER_CH1_<id>.dat
+10:40:58 -- Start recording in file patienten\P061\<id>\06_MER_CH1_<id>.dat
+10:40:58 -- Datafile opened: patienten\P061\<id>\06_MER_CH2_<id>.dat
+10:40:58 -- Start recording in file patienten\P061\<id>\06_MER_CH2_<id>.dat
+10:40:58 -- EMG-Datafile opened: patienten\P061\<id>\06_TRG_<id>.dat
+10:40:58 -- EMG-Datafile opened: patienten\P061\<id>\06_STIM_<id>.dat
+10:40:58 -- Start recording in file patienten\P061\<id>\06_TRG_<id>.dat
+10:40:58 -- Start recording in file patienten\P061\<id>\06_STIM_<id>.dat
+10:41:15 -- 
+10:41:15 -- ------------------------------------------ 
+10:41:15 -- New site no 7 created( Depth: -8,8 mm )
+10:41:15 -- 
+10:41:15 -- Quantisation: 16 Bit
+10:41:15 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:41:15 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:41:15 -- Datafile opened: patienten\P061\<id>\07_MER_CH1_<id>.dat
+10:41:15 -- Start recording in file patienten\P061\<id>\07_MER_CH1_<id>.dat
+10:41:15 -- Datafile opened: patienten\P061\<id>\07_MER_CH2_<id>.dat
+10:41:15 -- Start recording in file patienten\P061\<id>\07_MER_CH2_<id>.dat
+10:41:15 -- EMG-Datafile opened: patienten\P061\<id>\07_TRG_<id>.dat
+10:41:15 -- EMG-Datafile opened: patienten\P061\<id>\07_STIM_<id>.dat
+10:41:15 -- Start recording in file patienten\P061\<id>\07_TRG_<id>.dat
+10:41:15 -- Start recording in file patienten\P061\<id>\07_STIM_<id>.dat
+10:41:27 -- 
+10:41:27 -- ------------------------------------------ 
+10:41:27 -- New site no 8 created( Depth: -8,6 mm )
+10:41:27 -- 
+10:41:27 -- Quantisation: 16 Bit
+10:41:27 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:41:27 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:41:28 -- Datafile opened: patienten\P061\<id>\08_MER_CH1_<id>.dat
+10:41:28 -- Start recording in file patienten\P061\<id>\08_MER_CH1_<id>.dat
+10:41:28 -- Datafile opened: patienten\P061\<id>\08_MER_CH2_<id>.dat
+10:41:28 -- Start recording in file patienten\P061\<id>\08_MER_CH2_<id>.dat
+10:41:28 -- EMG-Datafile opened: patienten\P061\<id>\08_TRG_<id>.dat
+10:41:28 -- EMG-Datafile opened: patienten\P061\<id>\08_STIM_<id>.dat
+10:41:28 -- Start recording in file patienten\P061\<id>\08_TRG_<id>.dat
+10:41:28 -- Start recording in file patienten\P061\<id>\08_STIM_<id>.dat
+10:41:47 -- 
+10:41:47 -- ------------------------------------------ 
+10:41:47 -- New site no 9 created( Depth: -8,4 mm )
+10:41:47 -- 
+10:41:47 -- Quantisation: 16 Bit
+10:41:47 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:41:47 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:41:48 -- Datafile opened: patienten\P061\<id>\09_MER_CH1_<id>.dat
+10:41:48 -- Start recording in file patienten\P061\<id>\09_MER_CH1_<id>.dat
+10:41:48 -- Datafile opened: patienten\P061\<id>\09_MER_CH2_<id>.dat
+10:41:48 -- Start recording in file patienten\P061\<id>\09_MER_CH2_<id>.dat
+10:41:48 -- EMG-Datafile opened: patienten\P061\<id>\09_TRG_<id>.dat
+10:41:48 -- EMG-Datafile opened: patienten\P061\<id>\09_STIM_<id>.dat
+10:41:48 -- Start recording in file patienten\P061\<id>\09_TRG_<id>.dat
+10:41:48 -- Start recording in file patienten\P061\<id>\09_STIM_<id>.dat
+10:42:00 -- 
+10:42:00 -- ------------------------------------------ 
+10:42:00 -- New site no 10 created( Depth: -8,2 mm )
+10:42:00 -- 
+10:42:00 -- Quantisation: 16 Bit
+10:42:00 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:42:00 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:42:00 -- Datafile opened: patienten\P061\<id>\10_MER_CH1_<id>.dat
+10:42:00 -- Start recording in file patienten\P061\<id>\10_MER_CH1_<id>.dat
+10:42:00 -- Datafile opened: patienten\P061\<id>\10_MER_CH2_<id>.dat
+10:42:00 -- Start recording in file patienten\P061\<id>\10_MER_CH2_<id>.dat
+10:42:00 -- EMG-Datafile opened: patienten\P061\<id>\10_TRG_<id>.dat
+10:42:00 -- EMG-Datafile opened: patienten\P061\<id>\10_STIM_<id>.dat
+10:42:00 -- Start recording in file patienten\P061\<id>\10_TRG_<id>.dat
+10:42:00 -- Start recording in file patienten\P061\<id>\10_STIM_<id>.dat
+10:42:14 -- 
+10:42:14 -- ------------------------------------------ 
+10:42:14 -- New site no 11 created( Depth: -8,0 mm )
+10:42:14 -- 
+10:42:14 -- Quantisation: 16 Bit
+10:42:14 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:42:14 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:42:14 -- Datafile opened: patienten\P061\<id>\11_MER_CH1_<id>.dat
+10:42:14 -- Start recording in file patienten\P061\<id>\11_MER_CH1_<id>.dat
+10:42:14 -- Datafile opened: patienten\P061\<id>\11_MER_CH2_<id>.dat
+10:42:14 -- Start recording in file patienten\P061\<id>\11_MER_CH2_<id>.dat
+10:42:14 -- EMG-Datafile opened: patienten\P061\<id>\11_TRG_<id>.dat
+10:42:14 -- EMG-Datafile opened: patienten\P061\<id>\11_STIM_<id>.dat
+10:42:14 -- Start recording in file patienten\P061\<id>\11_TRG_<id>.dat
+10:42:14 -- Start recording in file patienten\P061\<id>\11_STIM_<id>.dat
+10:42:39 -- 
+10:42:39 -- ------------------------------------------ 
+10:42:39 -- New site no 12 created( Depth: -7,8 mm )
+10:42:39 -- 
+10:42:39 -- Quantisation: 16 Bit
+10:42:39 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:42:39 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:42:40 -- Datafile opened: patienten\P061\<id>\12_MER_CH1_<id>.dat
+10:42:40 -- Start recording in file patienten\P061\<id>\12_MER_CH1_<id>.dat
+10:42:40 -- Datafile opened: patienten\P061\<id>\12_MER_CH2_<id>.dat
+10:42:40 -- Start recording in file patienten\P061\<id>\12_MER_CH2_<id>.dat
+10:42:40 -- EMG-Datafile opened: patienten\P061\<id>\12_TRG_<id>.dat
+10:42:40 -- EMG-Datafile opened: patienten\P061\<id>\12_STIM_<id>.dat
+10:42:40 -- Start recording in file patienten\P061\<id>\12_TRG_<id>.dat
+10:42:40 -- Start recording in file patienten\P061\<id>\12_STIM_<id>.dat
+10:42:53 -- 
+10:42:53 -- ------------------------------------------ 
+10:42:53 -- New site no 13 created( Depth: -7,6 mm )
+10:42:53 -- 
+10:42:53 -- Quantisation: 16 Bit
+10:42:53 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:42:53 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:42:53 -- Datafile opened: patienten\P061\<id>\13_MER_CH1_<id>.dat
+10:42:53 -- Start recording in file patienten\P061\<id>\13_MER_CH1_<id>.dat
+10:42:53 -- Datafile opened: patienten\P061\<id>\13_MER_CH2_<id>.dat
+10:42:53 -- Start recording in file patienten\P061\<id>\13_MER_CH2_<id>.dat
+10:42:53 -- EMG-Datafile opened: patienten\P061\<id>\13_TRG_<id>.dat
+10:42:53 -- EMG-Datafile opened: patienten\P061\<id>\13_STIM_<id>.dat
+10:42:53 -- Start recording in file patienten\P061\<id>\13_TRG_<id>.dat
+10:42:53 -- Start recording in file patienten\P061\<id>\13_STIM_<id>.dat
+10:43:07 -- 
+10:43:07 -- ------------------------------------------ 
+10:43:07 -- New site no 14 created( Depth: -7,4 mm )
+10:43:07 -- 
+10:43:07 -- Quantisation: 16 Bit
+10:43:07 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:43:07 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:43:07 -- Datafile opened: patienten\P061\<id>\14_MER_CH1_<id>.dat
+10:43:07 -- Start recording in file patienten\P061\<id>\14_MER_CH1_<id>.dat
+10:43:07 -- Datafile opened: patienten\P061\<id>\14_MER_CH2_<id>.dat
+10:43:07 -- Start recording in file patienten\P061\<id>\14_MER_CH2_<id>.dat
+10:43:07 -- EMG-Datafile opened: patienten\P061\<id>\14_TRG_<id>.dat
+10:43:07 -- EMG-Datafile opened: patienten\P061\<id>\14_STIM_<id>.dat
+10:43:07 -- Start recording in file patienten\P061\<id>\14_TRG_<id>.dat
+10:43:07 -- Start recording in file patienten\P061\<id>\14_STIM_<id>.dat
+10:43:18 -- 
+10:43:18 -- ------------------------------------------ 
+10:43:18 -- New site no 15 created( Depth: -7,2 mm )
+10:43:18 -- 
+10:43:18 -- Quantisation: 16 Bit
+10:43:18 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:43:18 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:43:18 -- Datafile opened: patienten\P061\<id>\15_MER_CH1_<id>.dat
+10:43:18 -- Start recording in file patienten\P061\<id>\15_MER_CH1_<id>.dat
+10:43:18 -- Datafile opened: patienten\P061\<id>\15_MER_CH2_<id>.dat
+10:43:18 -- Start recording in file patienten\P061\<id>\15_MER_CH2_<id>.dat
+10:43:18 -- EMG-Datafile opened: patienten\P061\<id>\15_TRG_<id>.dat
+10:43:18 -- EMG-Datafile opened: patienten\P061\<id>\15_STIM_<id>.dat
+10:43:18 -- Start recording in file patienten\P061\<id>\15_TRG_<id>.dat
+10:43:18 -- Start recording in file patienten\P061\<id>\15_STIM_<id>.dat
+10:43:30 -- 
+10:43:30 -- ------------------------------------------ 
+10:43:30 -- New site no 16 created( Depth: -7,0 mm )
+10:43:30 -- 
+10:43:30 -- Quantisation: 16 Bit
+10:43:30 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:43:30 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:43:30 -- Datafile opened: patienten\P061\<id>\16_MER_CH1_<id>.dat
+10:43:30 -- Start recording in file patienten\P061\<id>\16_MER_CH1_<id>.dat
+10:43:30 -- Datafile opened: patienten\P061\<id>\16_MER_CH2_<id>.dat
+10:43:30 -- Start recording in file patienten\P061\<id>\16_MER_CH2_<id>.dat
+10:43:30 -- EMG-Datafile opened: patienten\P061\<id>\16_TRG_<id>.dat
+10:43:30 -- EMG-Datafile opened: patienten\P061\<id>\16_STIM_<id>.dat
+10:43:30 -- Start recording in file patienten\P061\<id>\16_TRG_<id>.dat
+10:43:30 -- Start recording in file patienten\P061\<id>\16_STIM_<id>.dat
+10:43:45 -- 
+10:43:45 -- ------------------------------------------ 
+10:43:45 -- New site no 17 created( Depth: -6,8 mm )
+10:43:45 -- 
+10:43:45 -- Quantisation: 16 Bit
+10:43:45 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:43:45 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:43:45 -- Datafile opened: patienten\P061\<id>\17_MER_CH1_<id>.dat
+10:43:45 -- Start recording in file patienten\P061\<id>\17_MER_CH1_<id>.dat
+10:43:45 -- Datafile opened: patienten\P061\<id>\17_MER_CH2_<id>.dat
+10:43:45 -- Start recording in file patienten\P061\<id>\17_MER_CH2_<id>.dat
+10:43:45 -- EMG-Datafile opened: patienten\P061\<id>\17_TRG_<id>.dat
+10:43:45 -- EMG-Datafile opened: patienten\P061\<id>\17_STIM_<id>.dat
+10:43:45 -- Start recording in file patienten\P061\<id>\17_TRG_<id>.dat
+10:43:45 -- Start recording in file patienten\P061\<id>\17_STIM_<id>.dat
+10:43:56 -- 
+10:43:56 -- ------------------------------------------ 
+10:43:56 -- New site no 18 created( Depth: -6,6 mm )
+10:43:56 -- 
+10:43:56 -- Quantisation: 16 Bit
+10:43:56 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:43:56 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:43:56 -- Datafile opened: patienten\P061\<id>\18_MER_CH1_<id>.dat
+10:43:56 -- Start recording in file patienten\P061\<id>\18_MER_CH1_<id>.dat
+10:43:56 -- Datafile opened: patienten\P061\<id>\18_MER_CH2_<id>.dat
+10:43:56 -- Start recording in file patienten\P061\<id>\18_MER_CH2_<id>.dat
+10:43:56 -- EMG-Datafile opened: patienten\P061\<id>\18_TRG_<id>.dat
+10:43:56 -- EMG-Datafile opened: patienten\P061\<id>\18_STIM_<id>.dat
+10:43:56 -- Start recording in file patienten\P061\<id>\18_TRG_<id>.dat
+10:43:56 -- Start recording in file patienten\P061\<id>\18_STIM_<id>.dat
+10:44:09 -- 
+10:44:09 -- ------------------------------------------ 
+10:44:09 -- New site no 19 created( Depth: -6,4 mm )
+10:44:09 -- 
+10:44:09 -- Quantisation: 16 Bit
+10:44:09 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:44:09 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:44:09 -- Datafile opened: patienten\P061\<id>\19_MER_CH1_<id>.dat
+10:44:09 -- Start recording in file patienten\P061\<id>\19_MER_CH1_<id>.dat
+10:44:09 -- Datafile opened: patienten\P061\<id>\19_MER_CH2_<id>.dat
+10:44:09 -- Start recording in file patienten\P061\<id>\19_MER_CH2_<id>.dat
+10:44:09 -- EMG-Datafile opened: patienten\P061\<id>\19_TRG_<id>.dat
+10:44:09 -- EMG-Datafile opened: patienten\P061\<id>\19_STIM_<id>.dat
+10:44:09 -- Start recording in file patienten\P061\<id>\19_TRG_<id>.dat
+10:44:09 -- Start recording in file patienten\P061\<id>\19_STIM_<id>.dat
+10:44:31 -- 
+10:44:31 -- ------------------------------------------ 
+10:44:31 -- New site no 20 created( Depth: -6,2 mm )
+10:44:31 -- 
+10:44:31 -- Quantisation: 16 Bit
+10:44:31 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:44:31 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:44:31 -- Datafile opened: patienten\P061\<id>\20_MER_CH1_<id>.dat
+10:44:31 -- Start recording in file patienten\P061\<id>\20_MER_CH1_<id>.dat
+10:44:31 -- Datafile opened: patienten\P061\<id>\20_MER_CH2_<id>.dat
+10:44:31 -- Start recording in file patienten\P061\<id>\20_MER_CH2_<id>.dat
+10:44:31 -- EMG-Datafile opened: patienten\P061\<id>\20_TRG_<id>.dat
+10:44:31 -- EMG-Datafile opened: patienten\P061\<id>\20_STIM_<id>.dat
+10:44:31 -- Start recording in file patienten\P061\<id>\20_TRG_<id>.dat
+10:44:31 -- Start recording in file patienten\P061\<id>\20_STIM_<id>.dat
+10:44:46 -- 
+10:44:46 -- ------------------------------------------ 
+10:44:46 -- New site no 21 created( Depth: -6,0 mm )
+10:44:46 -- 
+10:44:46 -- Quantisation: 16 Bit
+10:44:46 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:44:46 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:44:46 -- Datafile opened: patienten\P061\<id>\21_MER_CH1_<id>.dat
+10:44:46 -- Start recording in file patienten\P061\<id>\21_MER_CH1_<id>.dat
+10:44:46 -- Datafile opened: patienten\P061\<id>\21_MER_CH2_<id>.dat
+10:44:46 -- Start recording in file patienten\P061\<id>\21_MER_CH2_<id>.dat
+10:44:46 -- EMG-Datafile opened: patienten\P061\<id>\21_TRG_<id>.dat
+10:44:46 -- EMG-Datafile opened: patienten\P061\<id>\21_STIM_<id>.dat
+10:44:46 -- Start recording in file patienten\P061\<id>\21_TRG_<id>.dat
+10:44:46 -- Start recording in file patienten\P061\<id>\21_STIM_<id>.dat
+10:45:07 -- 
+10:45:07 -- ------------------------------------------ 
+10:45:07 -- New site no 22 created( Depth: -5,8 mm )
+10:45:07 -- 
+10:45:07 -- Quantisation: 16 Bit
+10:45:07 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:45:07 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:45:07 -- Datafile opened: patienten\P061\<id>\22_MER_CH1_<id>.dat
+10:45:07 -- Start recording in file patienten\P061\<id>\22_MER_CH1_<id>.dat
+10:45:07 -- Datafile opened: patienten\P061\<id>\22_MER_CH2_<id>.dat
+10:45:07 -- Start recording in file patienten\P061\<id>\22_MER_CH2_<id>.dat
+10:45:07 -- EMG-Datafile opened: patienten\P061\<id>\22_TRG_<id>.dat
+10:45:07 -- EMG-Datafile opened: patienten\P061\<id>\22_STIM_<id>.dat
+10:45:07 -- Start recording in file patienten\P061\<id>\22_TRG_<id>.dat
+10:45:07 -- Start recording in file patienten\P061\<id>\22_STIM_<id>.dat
+10:45:30 -- 
+10:45:30 -- ------------------------------------------ 
+10:45:30 -- New site no 23 created( Depth: -5,6 mm )
+10:45:30 -- 
+10:45:30 -- Quantisation: 16 Bit
+10:45:30 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:45:30 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:45:30 -- Datafile opened: patienten\P061\<id>\23_MER_CH1_<id>.dat
+10:45:30 -- Start recording in file patienten\P061\<id>\23_MER_CH1_<id>.dat
+10:45:30 -- Datafile opened: patienten\P061\<id>\23_MER_CH2_<id>.dat
+10:45:30 -- Start recording in file patienten\P061\<id>\23_MER_CH2_<id>.dat
+10:45:30 -- EMG-Datafile opened: patienten\P061\<id>\23_TRG_<id>.dat
+10:45:30 -- EMG-Datafile opened: patienten\P061\<id>\23_STIM_<id>.dat
+10:45:30 -- Start recording in file patienten\P061\<id>\23_TRG_<id>.dat
+10:45:30 -- Start recording in file patienten\P061\<id>\23_STIM_<id>.dat
+10:45:49 -- 
+10:45:49 -- ------------------------------------------ 
+10:45:49 -- New site no 24 created( Depth: -5,4 mm )
+10:45:49 -- 
+10:45:49 -- Quantisation: 16 Bit
+10:45:49 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:45:49 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:45:49 -- Datafile opened: patienten\P061\<id>\24_MER_CH1_<id>.dat
+10:45:49 -- Start recording in file patienten\P061\<id>\24_MER_CH1_<id>.dat
+10:45:49 -- Datafile opened: patienten\P061\<id>\24_MER_CH2_<id>.dat
+10:45:49 -- Start recording in file patienten\P061\<id>\24_MER_CH2_<id>.dat
+10:45:49 -- EMG-Datafile opened: patienten\P061\<id>\24_TRG_<id>.dat
+10:45:49 -- EMG-Datafile opened: patienten\P061\<id>\24_STIM_<id>.dat
+10:45:49 -- Start recording in file patienten\P061\<id>\24_TRG_<id>.dat
+10:45:49 -- Start recording in file patienten\P061\<id>\24_STIM_<id>.dat
+10:46:02 -- 
+10:46:02 -- ------------------------------------------ 
+10:46:02 -- New site no 25 created( Depth: -5,2 mm )
+10:46:02 -- 
+10:46:02 -- Quantisation: 16 Bit
+10:46:02 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:46:02 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:46:03 -- Datafile opened: patienten\P061\<id>\25_MER_CH1_<id>.dat
+10:46:03 -- Start recording in file patienten\P061\<id>\25_MER_CH1_<id>.dat
+10:46:03 -- Datafile opened: patienten\P061\<id>\25_MER_CH2_<id>.dat
+10:46:03 -- Start recording in file patienten\P061\<id>\25_MER_CH2_<id>.dat
+10:46:03 -- EMG-Datafile opened: patienten\P061\<id>\25_TRG_<id>.dat
+10:46:03 -- EMG-Datafile opened: patienten\P061\<id>\25_STIM_<id>.dat
+10:46:03 -- Start recording in file patienten\P061\<id>\25_TRG_<id>.dat
+10:46:03 -- Start recording in file patienten\P061\<id>\25_STIM_<id>.dat
+10:46:19 -- 
+10:46:19 -- ------------------------------------------ 
+10:46:19 -- New site no 26 created( Depth: -5,0 mm )
+10:46:19 -- 
+10:46:19 -- Quantisation: 16 Bit
+10:46:19 -- Sampling rate: 20000Hz, channel configuration: 1: Anterior, 2: Central
+10:46:19 -- Config -- Mi-Channels: HW-fcHP: 0Hz  HW-fcLP: 5000Hz  Vu: 1 -- SW-fcHP: 160Hz  SW-fcLP: 5000Hz  
+10:46:19 -- Datafile opened: patienten\P061\<id>\26_MER_CH1_<id>.dat
+10:46:19 -- Start recording in file patienten\P061\<id>\26_MER_CH1_<id>.dat
+10:46:19 -- Datafile opened: patienten\P061\<id>\26_MER_CH2_<id>.dat
+10:46:19 -- Start recording in file patienten\P061\<id>\26_MER_CH2_<id>.dat
+10:46:19 -- EMG-Datafile opened: patienten\P061\<id>\26_TRG_<id>.dat
+10:46:19 -- EMG-Datafile opened: patienten\P061\<id>\26_STIM_<id>.dat
+10:46:19 -- Start recording in file patienten\P061\<id>\26_TRG_<id>.dat
+10:46:19 -- Start recording in file patienten\P061\<id>\26_STIM_<id>.dat
+10:47:17 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:47:17 -- Current Confirm - On
+10:47:18 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:47:43 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:48:06 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:48:36 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:48:47 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:49:01 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:49:19 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+10:49:25 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:49:32 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+10:49:44 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+10:49:51 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):5,50  Freq(Hz):130  Pulse(us):60
+10:50:01 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:50:13 -- Stimulation ended
+10:50:13 -- 
+10:50:13 -- Current Confirm - Off
+10:50:26 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:50:26 -- Current Confirm - On
+10:50:28 -- Stimulation ended
+10:50:28 -- 
+10:50:28 -- Current Confirm - Off
+10:50:35 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:50:36 -- Current Confirm - On
+10:50:37 -- Stimulation ended
+10:50:37 -- 
+10:50:37 -- Current Confirm - Off
+10:51:15 -- Stimulation->  Electrode:Ma  Channel:1  Depth:-5,8  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:51:15 -- Current Confirm - On
+10:51:16 -- Stimulation ended
+10:51:16 -- 
+10:51:16 -- Current Confirm - Off
+10:51:19 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):0,10  Freq(Hz):130  Pulse(us):60
+10:51:19 -- Current Confirm - On
+10:51:20 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):0,50  Freq(Hz):130  Pulse(us):60
+10:51:31 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):1,00  Freq(Hz):130  Pulse(us):60
+10:51:46 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):1,50  Freq(Hz):130  Pulse(us):60
+10:52:08 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):2,00  Freq(Hz):130  Pulse(us):60
+10:52:18 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):2,50  Freq(Hz):130  Pulse(us):60
+10:52:23 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):3,00  Freq(Hz):130  Pulse(us):60
+10:52:25 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):3,50  Freq(Hz):130  Pulse(us):60
+10:52:31 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):4,00  Freq(Hz):130  Pulse(us):60
+10:52:43 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):4,50  Freq(Hz):130  Pulse(us):60
+10:52:47 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+10:52:50 -- Stimulation ended
+10:52:50 -- 
+10:52:50 -- Current Confirm - Off
+10:52:59 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):5,00  Freq(Hz):130  Pulse(us):60
+10:52:59 -- Current Confirm - On
+10:53:02 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):5,50  Freq(Hz):130  Pulse(us):60
+10:53:09 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:53:13 -- Stimulation ended
+10:53:13 -- 
+10:53:13 -- Current Confirm - Off
+10:53:21 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:53:21 -- Current Confirm - On
+10:53:24 -- Stimulation ended
+10:53:24 -- 
+10:53:24 -- Current Confirm - Off
+10:53:28 -- Stimulation->  Electrode:Ma  Channel:2  Depth:-5,8  Current(mA):6,00  Freq(Hz):130  Pulse(us):60
+10:53:29 -- Current Confirm - On
+10:53:31 -- Stimulation ended
+10:53:31 -- 
+10:53:32 -- Current Confirm - Off
+10:53:48 -- Connection to OSIRIS ended
+10:53:48 -- User interrupts connection
+10:53:48 -- Stop recording in file patienten\P061\<id>\26_MER_CH1_<id>.dat
+10:53:48 -- Stop recording in file patienten\P061\<id>\26_MER_CH2_<id>.dat
+10:53:48 -- Stop recording in file patienten\P061\<id>\26_TRG_<id>.dat
+10:53:48 -- Stop recording in file patienten\P061\<id>\26_STIM_<id>.dat
+10:53:50 -- Complete reset - sites are going to be deleted from display
+
+ (not from hard disc)
+10:53:57 -- Application is going to be closed

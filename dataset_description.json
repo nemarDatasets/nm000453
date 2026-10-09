@@ -1,0 +1,57 @@
+{
+  "Name": "DBS microelectrode recordings from 132 patients, University Clinical Centre Gdańsk (Osowska, Szymański, Libionka 2026; derivative: authors' band-passed, classifier-selected MER segments)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC0-1.0",
+  "Authors": [
+    "Katarzyna Osowska",
+    "Julian Szymański",
+    "Witold Libionka"
+  ],
+  "Acknowledgements": "Recordings from DBS procedures at the University Clinical Centre in Gdańsk, Poland; data and code released on MOST Wiedzy (Gdańsk University of Technology) by J. Szymański et al. Repackaged to BIDS for NEMAR.",
+  "HowToAcknowledge": "Cite Osowska K., Szymański J., Libionka W. (2026) A Dataset of Microelectrode Recordings from Deep Brain Stimulation Procedures. Scientific Data 13:870, doi:10.1038/s41597-026-07492-w, and the MOST Wiedzy dataset doi:10.34808/nq8v-t162.",
+  "Funding": [
+    "Gdańsk University of Technology (partial)",
+    "Cloud Artificial Intelligence Service Engineering (CAISE) platform, grant KPOD.05.10-IW.10-0005/24, European IPCEI-CIS programme, financed by the National Recovery and Resilience Plan (NRRP)"
+  ],
+  "EthicsApprovals": [
+    "Ethics Commission of Medical Sciences Department, University of Warmia and Mazury, 43/2016",
+    "Bioethical Commission of Nicolaus Copernicus University in Toruń, KB 416/2008 and KB 28/2010 (extension 2021)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.34808/nq8v-t162",
+    "https://doi.org/10.1038/s41597-026-07492-w",
+    "https://github.com/kasiaOsowska/Deep-Brain-Stimulation-Microelectrode-Recordings"
+  ],
+  "Keywords": [
+    "deep brain stimulation",
+    "microelectrode recording",
+    "MER",
+    "basal ganglia",
+    "globus pallidus",
+    "subthalamic nucleus",
+    "Parkinson's disease",
+    "Huntington's disease",
+    "dystonia",
+    "intraoperative"
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.34808/nq8v-t162",
+      "URL": "https://mostwiedzy.pl/en/open-research-data/dbs-recordings,1209080239123979-0",
+      "Version": "DBS_dataset_v3 (MOST Wiedzy record 0_12090802391239790_ORD, published 2025)"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Authors' processing (codes/parser + signal_quality_classifier)",
+      "Description": "ISIS MER .dat files (int16, 20 kHz; not released) decoded, overflow-corrected, band-passed 500-5000 Hz (4th-order Butterworth, causal lfilter) and clipped to +-500 instrument units; a Random Forest signal-quality classifier on 0.5 s windows then kept, per recording, the longest continuous fragment with >= 3 consecutive 'Neuronal activity' windows (>= 1.5 s) or else the longest artefact-free fragment >= 2 s; an electrophysiologist annotated 29 excerpts (striatum/putamen, GPe, GPi).",
+      "CodeURL": "https://github.com/kasiaOsowska/Deep-Brain-Stimulation-Microelectrode-Recordings"
+    },
+    {
+      "Name": "f2_gdansk_convert.py",
+      "Description": "Repackaging of every released CSV as one BrainVision IEEE float32 run (values bit-exact to float32 of the CSV values; integer '1: raw' values exact), electrode label as acq, protocol order as run; depth, source file and segment offset in scans.tsv and events.tsv; annotated excerpts as task-merannot runs and as events in the matching task-mer runs. Code in code/.",
+      "Version": "2026-10-08"
+    }
+  ]
+}

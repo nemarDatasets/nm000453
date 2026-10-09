@@ -1,0 +1,2 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	group	status	status_description	description
+5Lateral	DBS	µV	500	5000	20000.0	scalp reference electrode (article)	5Lateral	good	n/a	Ben-gun microelectrode '5Lateral' (lateral; the digit is the amplifier channel number kept by the authors' parser, which strips only '1' and '2'); authors' '2: preprocessed' column: 4th-order Butterworth band-pass 500-5000 Hz (scipy lfilter), clipped to +-500; instrument units interpreted by the authors as µV-equivalent (unknown global scale)

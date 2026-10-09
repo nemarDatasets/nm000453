@@ -1,0 +1,41 @@
+{
+  "TaskName": "mer",
+  "TaskDescription": "Intraoperative microelectrode recording (MER) at one depth of a Ben-gun microelectrode trajectory during awake DBS surgery; this run is the single segment the authors' signal-quality classifier kept from that recording (not the full recording)",
+  "Instructions": "n/a (awake surgery under local anaesthesia; no task)",
+  "SamplingFrequency": 20000.0,
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "ButterworthBandpass": {
+      "Description": "Authors' parser (codes/parser/utils.py): overflow correction, 4th-order Butterworth band-pass 500-5000 Hz (scipy.signal.lfilter, causal), amplitude clipped to +-500 instrument units; applies to the preprocessed channel only",
+      "LowCutoff": 500,
+      "HighCutoff": 5000,
+      "Order": 4
+    }
+  },
+  "HardwareFilters": {
+    "AcquisitionSystem": {
+      "Description": "ISIS MER hardware band-pass; per-site settings (e.g. HW-fcHP 0 Hz, HW-fcLP 5000 Hz) are in the protocol files in sourcedata"
+    }
+  },
+  "Manufacturer": "inomed Medizintechnik GmbH",
+  "ManufacturersModelName": "ISIS MER system (MicroMacro electrodes, Ben-gun MicroDrive)",
+  "iEEGReference": "Scalp reference electrode (article)",
+  "iEEGGround": "Chest (article)",
+  "iEEGPlacementScheme": "Up to five parallel microelectrodes in a Ben-gun configuration (central, anterior, posterior, medial, lateral) advanced along the planned trajectory; depth relative to the reference target (0 mm = target)",
+  "iEEGElectrodeGroups": "One group per microelectrode label",
+  "ElectrodeManufacturer": "inomed Medizintechnik GmbH",
+  "DBSChannelCount": 1,
+  "SEEGChannelCount": 0,
+  "ECOGChannelCount": 0,
+  "RecordingType": "epoched",
+  "EpochLength": 21.77005,
+  "RecordingDuration": 21.77005,
+  "ElectricalStimulation": false,
+  "SourceFile": "dataset/MER/P120/depth-6,0_kanalCentral.csv",
+  "SourceTimeStart": 0.49995,
+  "DepthFromTarget_mm": -6.0,
+  "EEGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0
+}

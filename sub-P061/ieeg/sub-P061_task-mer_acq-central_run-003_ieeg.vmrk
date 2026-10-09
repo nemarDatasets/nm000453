@@ -1,0 +1,8 @@
+Brain Vision Data Exchange Marker File, Version 1.0
+
+[Common Infos]
+Codepage=UTF-8
+DataFile=sub-P061_task-mer_acq-central_run-003_ieeg.eeg
+
+[Marker Infos]
+Mk1=New Segment,,1,1,0

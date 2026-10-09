@@ -1,0 +1,22 @@
+{
+  "age": {
+    "Description": "Age at the time of the procedure (metadata.csv AGE)",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "metadata.csv GENDER",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "diagnosis_icd10": {
+    "Description": "ICD-10 code (metadata.csv DIAGNOSIS): G20 Parkinson's disease, G10 Huntington's disease, G24 dystonia, G25 other extrapyramidal and movement disorders, G40 epilepsy, G22 parkinsonism in diseases classified elsewhere, G29 other degenerative diseases of the nervous system, R25 abnormal involuntary movements; n/a = not retrievable from the archive (article)"
+  },
+  "dbs_target": {
+    "Description": "metadata.csv TARGET: surgical target. 'A_AND_B' = recording spanned two structures (upper/lower part of the microelectrode); STN_OR_GPi (G20/G22) = STN or GPi, about 90% STN per the article"
+  },
+  "procedure_year_month": {
+    "Description": "Procedure date, year and month only (metadata.csv DATE)"
+  }
+}

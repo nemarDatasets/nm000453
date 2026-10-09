@@ -1,0 +1,3 @@
+name	x	y	z	size	group	type	trajectory	min_depth_mm	max_depth_mm
+Anterior	n/a	n/a	n/a	n/a	Anterior	microelectrode	anterior	-10	1
+Central3Lateral	n/a	n/a	n/a	n/a	Central3Lateral	microelectrode	central_or_lateral	-10	1
