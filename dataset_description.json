@@ -53,5 +53,7 @@
       "Description": "Repackaging of every released CSV as one BrainVision IEEE float32 run (values bit-exact to float32 of the CSV values; integer '1: raw' values exact), electrode label as acq, protocol order as run; depth, source file and segment offset in scans.tsv and events.tsv; annotated excerpts as task-merannot runs and as events in the matching task-mer runs. Code in code/.",
       "Version": "2026-10-08"
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000453",
+  "Version": "1.0.0"
 }
