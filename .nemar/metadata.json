@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "DBS microelectrode recordings from 132 patients, University Clinical Centre Gdańsk (Osowska, Szymański, Libionka 2026; derivative: authors' band-passed, classifier-selected MER segments)",
-  "description": "Intraoperative microelectrode recordings (MER) from 132 patients undergoing deep brain stimulation surgery at the University Clinical Centre in Gdańsk, Poland. Diagnoses include Parkinson's disease, Huntington's disease, dystonia and other movement disorders. This derivative release contains short, band-pass filtered segments selected by a Random Forest signal-quality classifier, plus 29 expert-annotated excerpts labelled as striatum/putamen, GPe or GPi. Data are repackaged in BIDS as BrainVision float32 files.",
-  "methods_description": "Up to five parallel microelectrodes (inomed ISIS MER system) were advanced toward the MRI-planned target during awake surgery under local anaesthesia, recording at successive depths at 20 kHz. Signals were overflow-corrected, band-passed at 500-5000 Hz (4th-order Butterworth) and clipped. A Random Forest classifier on 0.5 s windows (neuronal activity, background, artifact) selected the retained segment from each recording. An electrophysiologist annotated 29 excerpts by brain structure.",
+  "title": "Osowska-2026-dataset-10.1038/s41597-026-07492-w",
+  "description": "Derivative BIDS repackaging of intraoperative microelectrode recordings (MER) from 132 patients undergoing deep brain stimulation surgery at the University Clinical Centre in Gdańsk. Patients had Parkinson's disease, Huntington's disease, dystonia, tremor or epilepsy. Each of the 6646 runs is a short, band-pass filtered segment selected by a Random Forest signal-quality classifier, recorded at successive depths relative to the MRI-planned target. The dataset includes 29 expert-annotated excerpts labelled as striatum/putamen, GPe or GPi.",
+  "methods_description": "Recordings were acquired with an inomed ISIS MER system using up to five parallel MicroMacro microelectrodes (Ben-gun configuration) at 20 kHz during awake surgery under local anaesthesia. Signals were overflow-corrected, band-passed at 500-5000 Hz (4th-order Butterworth), and clipped. A Random Forest classifier on 0.5 s windows retained the longest neuronal-activity or artefact-free segment per depth. The segments were converted to BrainVision float32 format.",
   "license": "CC0-1.0",
   "dataset_type": "derivative",
   "authors": {
@@ -28,9 +28,14 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D010300"
     },
     {
-      "term": "Subthalamic Nucleus",
+      "term": "Huntington Disease",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D020531"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006816"
+    },
+    {
+      "term": "Dystonia",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004421"
     },
     {
       "term": "Globus Pallidus",
@@ -38,9 +43,9 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D005917"
     },
     {
-      "term": "Dystonia",
+      "term": "Subthalamic Nucleus",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004421"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D020531"
     },
     {
       "term": "intraoperative electrophysiology"
@@ -102,5 +107,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "6eb1c6ff9ea263e19bb892da4bc009da16b756e62552543db5b5e10a47ccb8e9"
+  "source_hash": "94c473113ade9627f6d29ed18436d2711e5efc134af34b25540e594f505d3f9f"
 }
