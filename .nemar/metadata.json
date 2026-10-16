@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "DBS microelectrode recordings from 132 patients, University Clinical Centre Gdańsk (Osowska, Szymański, Libionka 2026; derivative: authors' band-passed, classifier-selected MER segments)",
-  "description": "Derivative BIDS repackaging of intraoperative microelectrode recordings (MER) from 132 patients undergoing deep brain stimulation surgery at the University Clinical Centre in Gdańsk. Patients had Parkinson's disease, Huntington's disease, dystonia, tremor or epilepsy. Each of the 6646 runs is a short, band-pass filtered segment selected by a Random Forest signal-quality classifier, recorded at successive depths relative to the MRI-planned target. The dataset includes 29 expert-annotated excerpts labelled as striatum/putamen, GPe or GPi.",
-  "methods_description": "Recordings were acquired with an inomed ISIS MER system using up to five parallel MicroMacro microelectrodes (Ben-gun configuration) at 20 kHz during awake surgery under local anaesthesia. Signals were overflow-corrected, band-passed at 500-5000 Hz (4th-order Butterworth), and clipped. A Random Forest classifier on 0.5 s windows retained the longest neuronal-activity or artefact-free segment per depth. The segments were converted to BrainVision float32 format.",
+  "description": "Intraoperative microelectrode recordings (MER) from 132 patients undergoing awake deep brain stimulation surgery at the University Clinical Centre in Gdańsk, Poland. Patients had Parkinson's disease, Huntington's disease, dystonia, tremor or epilepsy. Up to five parallel microelectrodes were advanced toward the MRI-planned target, recording at successive depths. This derivative release contains band-passed (500-5000 Hz), classifier-selected short segments (22.4 h in 6646 runs) plus 29 expert-annotated excerpts labelled striatum/putamen, GPe or GPi.",
+  "methods_description": "Recordings were acquired with an inomed ISIS MER system using MicroMacro electrodes in a Ben-gun configuration at 20 kHz. Signals were overflow-corrected, band-passed at 500-5000 Hz (4th-order Butterworth) and clipped. A Random Forest signal-quality classifier on 0.5 s windows (neuronal activity, background, artifact) selected the longest usable fragment per depth recording. An electrophysiologist annotated 29 excerpts by brain structure.",
   "license": "CC0-1.0",
   "dataset_type": "derivative",
   "authors": {
@@ -38,14 +38,14 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004421"
     },
     {
-      "term": "Globus Pallidus",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D005917"
-    },
-    {
       "term": "Subthalamic Nucleus",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D020531"
+    },
+    {
+      "term": "Globus Pallidus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D005917"
     },
     {
       "term": "intraoperative electrophysiology"
