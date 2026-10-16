@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Osowska-2026-dataset-10.1038/s41597-026-07492-w",
+  "title": "DBS microelectrode recordings from 132 patients, University Clinical Centre Gdańsk (Osowska, Szymański, Libionka 2026; derivative: authors' band-passed, classifier-selected MER segments)",
   "description": "Derivative BIDS repackaging of intraoperative microelectrode recordings (MER) from 132 patients undergoing deep brain stimulation surgery at the University Clinical Centre in Gdańsk. Patients had Parkinson's disease, Huntington's disease, dystonia, tremor or epilepsy. Each of the 6646 runs is a short, band-pass filtered segment selected by a Random Forest signal-quality classifier, recorded at successive depths relative to the MRI-planned target. The dataset includes 29 expert-annotated excerpts labelled as striatum/putamen, GPe or GPi.",
   "methods_description": "Recordings were acquired with an inomed ISIS MER system using up to five parallel MicroMacro microelectrodes (Ben-gun configuration) at 20 kHz during awake surgery under local anaesthesia. Signals were overflow-corrected, band-passed at 500-5000 Hz (4th-order Butterworth), and clipped. A Random Forest classifier on 0.5 s windows retained the longest neuronal-activity or artefact-free segment per depth. The segments were converted to BrainVision float32 format.",
   "license": "CC0-1.0",
@@ -107,5 +107,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "94c473113ade9627f6d29ed18436d2711e5efc134af34b25540e594f505d3f9f"
+  "source_hash": "9b9c0fb967d380cc1e7dad8d93bf488cdb725f67abb1e187c2f6aea52a525bd4"
 }
