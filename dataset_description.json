@@ -1,5 +1,5 @@
 {
-  "Name": "Osowska-2026-dataset-10.1038/s41597-026-07492-w",
+  "Name": "DBS microelectrode recordings from 132 patients, University Clinical Centre Gdańsk (Osowska, Szymański, Libionka 2026; derivative: authors' band-passed, classifier-selected MER segments)",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
   "License": "CC0-1.0",
@@ -55,5 +55,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000453",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
