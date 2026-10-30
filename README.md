@@ -71,3 +71,13 @@ or file names with them; no patient overlap can be established from either relea
 Patient codes P001-P132 are the authors' pseudonyms. metadata.csv holds year-month only. The protocols carried full
 procedure dates (day set to 01 here) and numeric archive ids in file paths (replaced). No names were found in file names,
 CSV headers or protocols.
+
+## task-merannot overlaps task-mer (fix-20261030, Oct 2026)
+
+The 29 `task-merannot` runs (P106, P121; 31.6 s in total) are excerpts of the same MER recordings as the `task-mer`
+runs, not additional data: 19 of them lie inside the matching `task-mer` segment on the source time axis (same patient,
+electrode and depth; these intervals are also marked `annotated_<structure>` in that run's events.tsv), and the other 10
+come from the same site recordings outside the released 10-s segments. Their preprocessed values are not
+sample-identical to the `task-mer` files (0 of 19 identical, `code/conversion_report.json` notes): the authors filtered
+the excerpts separately. Treat them as annotation examples: when counting recording time or participants, count
+`task-mer` only (6,646 runs, 22.43 h) and do not add `task-merannot`.
